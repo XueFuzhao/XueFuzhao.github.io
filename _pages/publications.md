@@ -5,56 +5,23 @@ permalink: /publications/
 author_profile: true
 ---
 
-(* indicates equal contribution)
+(* indicates corresponding author)
 
 ## 2021
-* Pre-training Text-to-Text Transformers for Concept-centric Common Sense  
-  **Wangchunshu Zhou\***, Dong-Ho Lee\*, Ravi Selvam, Seyeon Lee, Bill Yuchen Lin, Xiang Ren   
-  ***submitted to** **ICLR 2021**, previous version accepted to NeurIPS 2020 Workshop on Self-Supervised Learning*  
+* GDPNet: Refining Refining Latent Multi-View Graph for Relation Extraction  
+  **Fuzhao Xue**, Aixin Sun*, Hao Zhang, Eng-Siong Chng   
+  Published at **Association for the Advancement of Artificial Intelligence (AAAI) 2021***
   
 ## 2020
+* Deep Graph Random Process for Relational-Thinking-Based Speech Recognition [Arxiv](https://arxiv.org/abs/2007.02126)
+  Hengguan Huang, **Fuzhao Xue**, Hao Wang, Ye Wang * 
+  *Published at **International Conference on Machine Learning (ICML) 2020***
 
-* Connecting the Dots Between Fact Verification and Fake News Detection  
-  Qifei Li\*, **Wangchunshu Zhou\***  
-  *in Proc. of **COLING 2020 (Oral)***  
-
-* BERT Loses Patience: Fast and Robust Inference with Early Exit  
-  **Wangchunshu Zhou\***, [Canwen Xu](https://www.canwenxu.net/)\*, Tao Ge, [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/), [Ke Xu](http://sites.nlsde.buaa.edu.cn/~kexu/), [Furu Wei](http://mindio.org/)  
-  *in Proc. of **NeurIPS 2020***
-  
-* Towards Interpretable Natural LanguageUnderstanding with Explanations as Latent Variables  
-**Wangchunshu Zhou\***, Jinyi Hu\*, Hanlin Zhang\*, [Xiaodan Liang](https://lemondan.github.io/), Maosong Sun, [Chenyan Xiong](https://www.microsoft.com/en-us/research/people/cxiong/), [Jian Tang](https://jian-tang.com/)  
-  *in Proc. of **NeurIPS 2020***
-
-* BERT-of-Theseus: Compressing BERT by Progressive Module Replacing  
-  [Canwen Xu](https://www.canwenxu.net/)\*, **Wangchunshu Zhou\***, Tao Ge, [Furu Wei](http://mindio.org/), [Ming Zhou](https://www.microsoft.com/en-us/research/people/mingzhou/)    
-  *in Proc. of **EMNLP 2020***
-
-* Scheduled DropHead: A Regularization Method for Transformer Model  
-  **Wangchunshu Zhou**, Tao Ge, [Ke Xu](http://sites.nlsde.buaa.edu.cn/~kexu/), [Furu Wei](http://mindio.org/), [Ming Zhou](https://www.microsoft.com/en-us/research/people/mingzhou/)  
-  *in Proc. of **EMNLP 2020 (Findings)***
-
-* Improving Grammatical Error Correction with Machine Translation Pairs  
-  **Wangchunshu Zhou**, Tao Ge, Chang Mu, [Ke Xu](http://sites.nlsde.buaa.edu.cn/~kexu/), [Furu Wei](http://mindio.org/), [Ming Zhou](https://www.microsoft.com/en-us/research/people/mingzhou/)  
-  *in Proc. of **EMNLP 2020 (Findings)***
-
-* Pseudo Bidirectional Decoding for Local Sequence Transduction  
-  **Wangchunshu Zhou**, Tao Ge, [Ke Xu](http://sites.nlsde.buaa.edu.cn/~kexu/)  
-  *in Proc. of **EMNLP 2020 (Findings)***
-
-* CommonGen: A Constrained Text Generation Challenge for Generative Commonsense Reasoning  
- [Bill Yuchen Lin](https://yuchenlin.xyz/), **Wangchunshu Zhou**, Ming Shen, Pei Zhou, Chandra Bhagavatula, Yejin Choi and Xiang Ren  
-  *in Proc. of **EMNLP 2020 (Findings)***
-
-* Self-Adversarial Learning with Comparative Discrimination for Text Generation   
-  **Wangchunshu Zhou**, Tao Ge, [Ke Xu](http://sites.nlsde.buaa.edu.cn/~kexu/), [Furu Wei](http://mindio.org/), [Ming Zhou](https://www.microsoft.com/en-us/research/people/mingzhou/)  
-  *in Proc. of **ICLR 2020***
-
-* Learning to Compare for Better Training and Evaluation of Open Domain Text Generation Models  
-  **Wangchunshu Zhou**, [Ke Xu](http://sites.nlsde.buaa.edu.cn/~kexu/)  
-  *in Proc. of **AAAI 2020 (Oral)***
+* A network model of speaker identification with new feature extraction methods and asymmetric BLSTM  
+  Xingmei Wang, **Fuzhao Xue\***, Wei Wang, Anhua Liu
+  *Published at **Neurocomputing***
   
 ## 2019
-* BERT-based Lexical Substitution  
-  **Wangchunshu Zhou**, Tao Ge, [Ke Xu](http://sites.nlsde.buaa.edu.cn/~kexu/), [Furu Wei](http://mindio.org/), [Ming Zhou](https://www.microsoft.com/en-us/research/people/mingzhou/)    
-*in Proc. of **ACL 2019***
+* An Underwater Acoustic Target Recognition: A Combination of Multi-dimensional Fusion Features and Modified Deep Neural Network  
+  Xingmei Wang *, Anhua Liu, Yu Zhang, **Fuzhao Xue**
+  *Published at **Remote Sensing***
