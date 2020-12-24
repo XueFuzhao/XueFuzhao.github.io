@@ -13,7 +13,7 @@ author_profile: true
   *Published at **Association for the Advancement of Artificial Intelligence (AAAI) 2021***
   
 ## 2020
-* Deep Graph Random Process for Relational-Thinking-Based Speech Recognition [Arxiv](https://arxiv.org/abs/2007.02126)
+* Deep Graph Random Process for Relational-Thinking-Based Speech Recognition [Arxiv](https://arxiv.org/abs/2007.02126) \
   Hengguan Huang, **Fuzhao Xue**, Hao Wang, Ye Wang
   *Published at **International Conference on Machine Learning (ICML) 2020***
 
