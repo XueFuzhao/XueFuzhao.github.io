@@ -14,7 +14,7 @@ I’m a MEng student in Nanyang Technological University (NTU), supervised by [P
 
 Research
 ======
-My current research mainly focus on Natural Language Processing, especially Dialogue Relation Extraction. In addition, I'm highly interested in many other related areas like Machine Learning, Knowledge Graph, 情] Information Retrieval , Computer Vision, Speech, and High Performance Computing. I am always happy to chat with others about interesting research ideas, and looking for academic collaborations. Please drop me an email if you are interested in collaborating with me.  
+My current research mainly focus on Natural Language Processing, especially Dialogue Relation Extraction. In addition, I'm highly interested in many other related areas like Machine Learning, Knowledge Graph, Information Retrieval , Computer Vision, Speech, and High Performance Computing. I am always happy to chat with others about interesting research ideas, and looking for academic collaborations. Please drop me an email if you are interested in collaborating with me.  
 
 Specifically I am interested in the following research topics:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Relation Extraction, Dialogue System and Knowledge Graph.**  
