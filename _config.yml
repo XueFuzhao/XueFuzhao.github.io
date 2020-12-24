@@ -14,7 +14,7 @@ description              : &description "MEng Student at Nanyang Technological U
 url                      : https://XueFuzhao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "XueFuzhao.github.io"
-teaser                   : "/images/site-logo.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "/images/profile.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Fuzhao Xue"
-  avatar           : "site-logo.png"
+  avatar           : "profile.png"
   bio              : "MEng Student at Nanyang Technological University. "
   location         : "Singapore"
   employer         :
