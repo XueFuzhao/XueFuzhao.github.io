@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "zh-Chinese"
-title                    : "Wangchunshu. Zhou"
+title                    : "Fuzhao Xue"
 title_separator          : "-"
-name                     : &name "Wangchunshu Zhou"
-description              : &description "Master Student at Beihang University"
-url                      : https://MichaelZhouwang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Fuzhao Xue"
+description              : &description "MEng Student at Nanyang Technological University"
+url                      : https://XueFuzhao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "MichaelZhouwang.github.io"
+repository               : "XueFuzhao.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,36 +80,36 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wangchunshu Zhou"
+  name             : "Fuzhao Xue"
   avatar           : "profile.png"
-  bio              : "Master Student at Beihang University, an NLPer. "
-  location         : "Beijing"
+  bio              : "MEng Student at Nanyang Technological University. "
+  location         : "Singapore"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=UebIjuQAAAAJ&hl=zh-CN"
-  email            : "michael.zhouwangchunshu@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=JMHsqIkAAAAJ&hl=en"
+  email            : "xuefuzhao@outlook.com"
+  researchgate     : "https://www.researchgate.net/profile/Fuzhao_Xue"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/wangchunshu.zhou.5"
+  facebook         : #"https://www.facebook.com/wangchunshu.zhou.5"
   foursquare       :
-  github           : "MichaelZhouwang"
+  github           : "XueFuzhao"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/%E6%98%A5%E6%BE%8D-%E5%91%A8%E7%8E%8B-187145173/"
+  linkedin         : "https://www.linkedin.com/in/fuzhao-xue-6410561a6/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "wangchunshu"
+  twitter          : #"wangchunshu"
   vine             :
   weibo            :
   xing             :
