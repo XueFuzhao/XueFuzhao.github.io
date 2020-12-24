@@ -14,7 +14,7 @@ author_profile: true
   
 ## 2020
 * Deep Graph Random Process for Relational-Thinking-Based Speech Recognition [Arxiv](https://arxiv.org/abs/2007.02126) \
-  Hengguan Huang, **Fuzhao Xue**, Hao Wang, Ye Wang
+  Hengguan Huang, **Fuzhao Xue**, Hao Wang, Ye Wang *
   *Published at **International Conference on Machine Learning (ICML) 2020***
 
 * A network model of speaker identification with new feature extraction methods and asymmetric BLSTM  
