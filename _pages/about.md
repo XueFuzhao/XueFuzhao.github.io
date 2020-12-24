@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi~ I am **Wangchunshu Zhou**, a second-year master student from the [Department of Computer Science and Technology](http://scse.buaa.edu.cn/), Beihang University. Before that, I received my Bachelor's degree from the [Sino-French Engineering School](http://ecpkn.buaa.edu.cn/), Beihang University.
+I’m a MEng student in Nanyang Technological University (NTU), supervised by Prof Chng Eng Siong(https://www3.ntu.edu.sg/home/aseschng/default.html/) & Prof Sun Aixin(https://personal.ntu.edu.sg/axsun/). Before joining NTU, I was a research intern in National University of Singapore, supervised by Prof Wang Ye(https://smcnus.comp.nus.edu.sg/). Please check my [CV](/cv.pdf) for further information.
 
-I am a member of the National Laboratory of Software Development Environment (NLSDE) and advised by Professor [Ke Xu](http://sites.nlsde.buaa.edu.cn/~kexu/). I am currently a research intern at [NLC Group @ Microsoft Research Asia](https://www.microsoft.com/en-us/research/group/natural-language-computing/) and advised Doctor Tao Ge. I've also visited [MILA](https://mila.quebec/) and [USC](https://www.isi.edu/) where I was fortunate to work with [Jian Tang](https://jian-tang.com/) and [Xiang Ren](http://ink-ron.usc.edu/xiangren/) respectively. Please check my [CV](/files/CV_latest.pdf) for further information.
-
-**I will apply for Ph.D. in NLP, Deep Learning, and related areas starting from Fall 2021. Feel free to drop me a line if interested!**
+**I will apply for Ph.D. starting from Fall 2021. Feel free to drop me a line if interested!**
 
 Research
 ======
@@ -24,7 +22,7 @@ Specifically I am interested in the following research topics:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Robust NLP models for OOD samples and reducing spurious dataset biases.**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Interpretability, explainability, biases, and fairness for NLP models.**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Green NLP, Low resource NLP, and Learning NLP models from high-level supervision**  
-I am open to academic collaborations and please drop me an email if you are interested in collaborating with me.  
+I am always happy to chat with others about interesting research ideas, and looking for academic collaborations. Please drop me an email if you are interested in collaborating with me.  
 
 News
 ======
