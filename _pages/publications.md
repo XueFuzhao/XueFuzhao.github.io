@@ -9,7 +9,7 @@ author_profile: true
 
 ## 2021
 * GDPNet: Refining Refining Latent Multi-View Graph for Relation Extraction [Arxiv](https://arxiv.org/abs/2012.06780) [Code](https://github.com/XueFuzhao/GDPNet) \
-  **Fuzhao Xue**, Aixin Sun *, Hao Zhang, Eng-Siong Chng   
+  **Fuzhao Xue**, Aixin Sun *, Hao Zhang, Eng-Siong Chng
   *Published at **Association for the Advancement of Artificial Intelligence (AAAI) 2021***
   
 ## 2020
