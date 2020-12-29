@@ -7,6 +7,11 @@ author_profile: true
 
 (* indicates corresponding author)
 
+## Preprint
+* An Embarrassingly Simple Model for Dialogue Relation Extraction [Arxiv](http://arxiv.org/abs/2012.13873)  \
+  **Fuzhao Xue**, Aixin Sun \*, Hao Zhang, Eng-Siong Chng
+  *arXiv preprint **arXiv: 2012.13873***
+
 ## 2021
 * GDPNet: Refining Refining Latent Multi-View Graph for Relation Extraction [Arxiv](https://arxiv.org/abs/2012.06780) [Code](https://github.com/XueFuzhao/GDPNet)  \
   **Fuzhao Xue**, Aixin Sun \*, Hao Zhang, Eng-Siong Chng
