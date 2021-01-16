@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "zh-Chinese"
-title                    : "Fuzhao Xue"
+title                    : "Fuzhao (Frio) Xue"
 title_separator          : "-"
-name                     : &name "Fuzhao Xue"
+name                     : &name "Fuzhao (Frio) Xue"
 description              : &description "MEng Student at Nanyang Technological University"
 url                      : https://XueFuzhao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
