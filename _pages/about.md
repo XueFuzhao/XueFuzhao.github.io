@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Fuzhao Xue. You can also call me Frio if you like. I'm a MEng student in Nanyang Technological University (NTU), supervised by [Prof Chng Eng Siong](https://www3.ntu.edu.sg/home/aseschng/default.html/) & [Prof Sun Aixin](https://personal.ntu.edu.sg/axsun/). Before joining NTU, I was a research intern in National University of Singapore, supervised by [Prof Wang Ye](https://smcnus.comp.nus.edu.sg/). Please check my [CV](/cv.pdf) for further information.
+My name is Fuzhao Xue. You can also call me Frio if you prefer. I'm a MEng student in Nanyang Technological University (NTU), supervised by [Prof Chng Eng Siong](https://www3.ntu.edu.sg/home/aseschng/default.html/) & [Prof Sun Aixin](https://personal.ntu.edu.sg/axsun/). Before joining NTU, I was a research intern in National University of Singapore, supervised by [Prof Wang Ye](https://smcnus.comp.nus.edu.sg/). Please check my [CV](/cv.pdf) for further information.
 
 **I will apply for Ph.D. starting from Fall 2021. Feel free to drop me an email if interested!**
 
