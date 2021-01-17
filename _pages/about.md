@@ -26,7 +26,7 @@ News
 ======
 \[2020.12]. Got one first-authored paper accepted to **AAAI 2021**. Thanks to all my collaborators!
 
-\[2019.10] Start my MEng study at NTU, supervised by Prof Chng Eng Siong and Prof. Sun Aixin.  
+\[2020.07] Start my MEng study at NTU, supervised by Prof Chng Eng Siong and Prof. Sun Aixin.  
 
 \[2020.6]. Got one second-authored paper accepted to **ICML 2020**. Thanks and Congrats to Hengguan!
 
