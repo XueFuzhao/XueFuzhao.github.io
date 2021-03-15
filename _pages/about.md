@@ -10,17 +10,15 @@ redirect_from:
 
 My name is Fuzhao Xue. You can also call me Frio if you prefer. I'm a MEng student in Nanyang Technological University (NTU), supervised by [Prof Chng Eng Siong](https://www3.ntu.edu.sg/home/aseschng/default.html/) & [Prof Sun Aixin](https://personal.ntu.edu.sg/axsun/). Before joining NTU, I was a research intern in National University of Singapore, supervised by [Prof Wang Ye](https://smcnus.comp.nus.edu.sg/). Please check my [CV](/cv.pdf) for further information.
 
-**I will apply for Ph.D. starting from Fall 2021. Feel free to drop me an email if interested!**
-
 Research
 ======
-My current research mainly focus on Natural Language Processing, especially Dialogue Relation Extraction. In addition, I'm highly interested in many other related areas like Machine Learning, Knowledge Graph, Information Retrieval , Computer Vision, Speech, and High Performance Computing. I am always happy to chat with others about interesting research ideas, and looking for academic collaborations. Please drop me an email if you are interested in collaborating with me.  
+My current research mainly focus on Natural Language Processing, especially Dialogue Relation Extraction. In addition, I'm highly interested in many other related areas like Machine Learning, Knowledge Graph, Information Retrieval, Computer Vision, Speech, and High Performance Computing. I am always happy to chat with others about interesting research ideas, and looking for academic collaborations. Please drop me an email if you are interested in collaborating with me.  
 
 Specifically I am interested in the following research topics:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Relation Extraction, Dialogue System and Knowledge Graph.**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Bayesian Deep Learning and Graph Neural Network.**   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Speech Recognition and Speaker Recognition.**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**High Performance Computing and Distributed System**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**NLP: Relation Extraction, Language Modeling and Knowledge Graph.**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**ML: Conditional Computation, Bayesian Deep Learning and Graph Neural Network.**   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Speech: Speech and Speaker Recognition.**  
+
 
 News
 ======
