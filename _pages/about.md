@@ -17,7 +17,7 @@ My current research mainly focus on Natural Language Processing, especially Dial
 Specifically I am interested in the following research topics:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**NLP: Relation Extraction, Language Modeling and Knowledge Graph.**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**ML: Conditional Computation, Bayesian Deep Learning and Graph Neural Network.**   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Speech: Speech and Speaker Recognition.**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Audio: Speech and Speaker Recognition, Audio Caption.**  
 
 
 News
