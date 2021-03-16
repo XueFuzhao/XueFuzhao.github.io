@@ -22,7 +22,7 @@ Specifically I am interested in the following research topics:
 
 News
 ======
-\[2020.12]. I will join [HPC-AI @ NUS](https://ai.comp.nus.edu.sg/) lab to start my Ph.D. degree under the supervision of Prof. [Yang You](https://www.comp.nus.edu.sg/~youy/)!
+\[2021.3]. I will join [HPC-AI @ NUS](https://ai.comp.nus.edu.sg/) lab to start my Ph.D. degree under the supervision of Prof. [Yang You](https://www.comp.nus.edu.sg/~youy/)!
 
 \[2020.12]. Got one first-authored paper accepted to **AAAI 2021**. Thanks to all my collaborators!
 
