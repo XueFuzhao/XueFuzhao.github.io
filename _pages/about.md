@@ -23,8 +23,11 @@ Specifically I am interested in the following research topics:
 Awards
 ======
 \[2021] NUS President's Graduate Fellowship
+
 \[2018] 4th Place of China AI Futurelab Contest
+
 \[2017] 2nd Prize of 2017 National Robot and Artificial Intelligence Competition "Human-like Robot Dash Project"
+
 \[2016-2018] 6 times University First-Class Scholarship 
 
 News
