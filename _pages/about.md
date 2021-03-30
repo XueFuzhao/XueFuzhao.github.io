@@ -23,14 +23,9 @@ Specifically I am interested in the following research topics:
 Awards
 ======
 2021 NUS President's Graduate Fellowship
-2019 University First-Class Scholarship (Spring)
-2018 University First-Class Scholarship (Fall)
-2018 University First-Class Scholarship (Spring)
 2018 4th Place of China AI Futurelab Contest
-2017 University First-Class Scholarship (Fall)
 2017 2nd Prize of 2017 National Robot and Artificial Intelligence Competition "Human-like Robot Dash Project"
-2017 University First-Class Scholarship (Spring)
-2016 University First-Class Scholarship (Fall)
+2016-2018 6 times University First-Class Scholarship 
 
 News
 ======
