@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Fuzhao Xue. You can also call me Frio if you prefer. I'm a MEng student in Nanyang Technological University (NTU) with an outstanding academic performance (5.0/5.0), supervised by [Prof Chng Eng Siong](https://www3.ntu.edu.sg/home/aseschng/default.html/) & [Prof Sun Aixin](https://personal.ntu.edu.sg/axsun/). Before joining NTU, I was a research intern in National University of Singapore, supervised by [Prof Wang Ye](https://smcnus.comp.nus.edu.sg/). I will start my Ph.D. degree in [HPC-AI](https://ai.comp.nus.edu.sg/) under the supervision of Prof. [Yang You](https://www.comp.nus.edu.sg/~youy/) at National University of Singapore (NUS). Please check my [CV](/cv.pdf) for further information.
+My name is Fuzhao Xue. You can also call me Frio if you prefer. I'm an MEng student in Nanyang Technological University (NTU) with an outstanding academic performance (5.0/5.0), supervised by [Prof Chng Eng Siong](https://www3.ntu.edu.sg/home/aseschng/default.html/) & [Prof Sun Aixin](https://personal.ntu.edu.sg/axsun/). Before joining NTU, I was a research intern in National University of Singapore, supervised by [Prof Wang Ye](https://smcnus.comp.nus.edu.sg/). I will start my Ph.D. degree in [HPC-AI](https://ai.comp.nus.edu.sg/) under the supervision of Prof. [Yang You](https://www.comp.nus.edu.sg/~youy/) at National University of Singapore (NUS). Please check my [CV](/cv.pdf) for further information.
 
 Research
 ======
