@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Fuzhao Xue. You can also call me Frio if you prefer. I'm an MEng student in Nanyang Technological University (NTU) with an outstanding academic performance (5.0/5.0), supervised by [Prof Chng Eng Siong](https://www3.ntu.edu.sg/home/aseschng/default.html/) & [Prof Sun Aixin](https://personal.ntu.edu.sg/axsun/). Before joining NTU, I was a research intern in National University of Singapore, supervised by [Prof Wang Ye](https://smcnus.comp.nus.edu.sg/). I will start my Ph.D. degree in [HPC-AI](https://ai.comp.nus.edu.sg/) under the supervision of Prof. [Yang You](https://www.comp.nus.edu.sg/~youy/) at National University of Singapore (NUS). Please check my [CV](/cv.pdf) for further information.
+My name is Fuzhao Xue. You can also call me Frio if you prefer. I'm an MEng student in Nanyang Technological University (NTU) with an outstanding academic performance (5.0/5.0), supervised by [Prof Chng Eng Siong](https://www3.ntu.edu.sg/home/aseschng/default.html/) & [Prof Sun Aixin](https://personal.ntu.edu.sg/axsun/). Before joining NTU, I was a research intern in National University of Singapore, supervised by [Prof Wang Ye](https://smcnus.comp.nus.edu.sg/). I will start my Ph.D. degree in [HPC-AI](https://ai.comp.nus.edu.sg/) under the supervision of Prof. [You Yang](https://www.comp.nus.edu.sg/~youy/) at National University of Singapore (NUS). Please check my [CV](/cv.pdf) for further information.
 
 Research
 ======
@@ -34,7 +34,7 @@ News
 ======
 \[2021.3]. Awarded by [President's Graduate Fellowship](https://www.nus.edu.sg/registrar/prospective-students/graduate/scholarship/president-s-graduate-fellowship-(pgf)) . Do appereciate the supervisors, friends and my parents. 
 
-\[2021.3]. I will join [HPC-AI @ NUS](https://ai.comp.nus.edu.sg/) lab to start my Ph.D. degree under the supervision of Presidential Young Prof. [Yang You](https://www.comp.nus.edu.sg/~youy/)!
+\[2021.3]. I will join [HPC-AI @ NUS](https://ai.comp.nus.edu.sg/) lab to start my Ph.D. degree under the supervision of Presidential Young Prof. [You Yang](https://www.comp.nus.edu.sg/~youy/)!
 
 \[2020.12]. Got one first-authored paper accepted to **AAAI 2021**. Thanks to all my collaborators!
 
