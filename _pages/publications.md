@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-(* indicates corresponding author)
+(* indicates equal contribution)
 
 ## Preprint
 
