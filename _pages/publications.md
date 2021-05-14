@@ -8,6 +8,11 @@ author_profile: true
 (* indicates corresponding author)
 
 ## Preprint
+
+* Recent Advances in Deep Learning-based Dialogue Systems [Arxiv](https://arxiv.org/abs/2105.04387)  \
+  Jinjie Ni, Tom Young, Vlad Pandelea, **Fuzhao Xue**, Vinay Adiga, Erik Cambria
+  *arXiv preprint **arXiv: 2105.04387***
+
 * An Embarrassingly Simple Model for Dialogue Relation Extraction [Arxiv](http://arxiv.org/abs/2012.13873)  \
   **Fuzhao Xue**, Aixin Sun, Hao Zhang, Eng-Siong Chng
   *arXiv preprint **arXiv: 2012.13873***
