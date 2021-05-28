@@ -8,6 +8,9 @@ author_profile: true
 (* indicates equal contribution)
 
 ## Preprint
+* Sequence Parallelism: Making 4D Parallelism Possible [Arxiv](https://arxiv.org/abs/2105.13120)  \
+  Shenggui Li, **Fuzhao Xue***, Yongbin Li, Yang You
+  *arXiv preprint **arXiv: 2105.13120***
 
 * Recent Advances in Deep Learning-based Dialogue Systems [Arxiv](https://arxiv.org/abs/2105.04387)  \
   Jinjie Ni, Tom Young, Vlad Pandelea, **Fuzhao Xue**, Vinay Adiga, Erik Cambria
