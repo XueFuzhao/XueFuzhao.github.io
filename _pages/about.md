@@ -12,12 +12,12 @@ My name is Fuzhao Xue. You can also call me Frio if you prefer. I'm an MEng stud
 
 Research
 ======
-My current research mainly focus on Natural Language Processing, especially Dialogue Relation Extraction. In addition, I'm highly interested in many other related areas like Machine Learning, Knowledge Graph, Information Retrieval, Computer Vision, Speech, and High Performance Computing. I am always happy to chat with others about interesting research ideas, and looking for academic collaborations. Please drop me an email if you are interested in collaborating with me.  
+My current research mainly focus on Natural Language Processing, Machine Learning and High Performance Computing. One recent interest is designing algorithm and system to train large and efficient language models. In addition, I'm highly interested in many other related areas like Knowledge Graph and Speech. I am always happy to chat with others about interesting research ideas, and looking for academic collaborations. Please drop me an email if you are interested in collaborating with me.  
 
 Specifically I am interested in the following research topics:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**NLP: Relation Extraction, Language Modeling and Knowledge Graph.**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**NLP: Language Modeling and Relation Extraction.**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**ML: Conditional Computation, Bayesian Deep Learning and Graph Neural Network.**   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Audio: Speech and Speaker Recognition, Audio Caption.**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**HPC: Distributed Machine Learning.**  
 
 
 Awards
@@ -47,4 +47,4 @@ News
 
 Personal information
 ------
-I'm keen on doing sports, such as playing basketball, swimming and fitness. I also enjoy watching movies and listening to music when I'm free.
+Hoppy: basketball, swimming and fitness. I also enjoy watching movies and listening to music, although I'm a terrible singer. :)
