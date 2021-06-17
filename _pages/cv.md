@@ -14,5 +14,5 @@ redirect_from:
 Education
 ======
 * B.Eng. in Computer Science and Technology, Harbin Engineering University, 2020
-* M.Eng. in Computer Science and Engineering, Nanyang Technological University, 2021 (expected)
-
+* M.Eng. in Computer Science and Engineering, Nanyang Technological University, 2021 
+* Ph.D. in Computer Science, National University of Singapore, 2025 (expected)
