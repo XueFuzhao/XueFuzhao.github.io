@@ -48,4 +48,4 @@ News
 Personal information
 ------
 Personal Hobbies: basketball, swimming and fitness. I also enjoy watching movies and listening to music, although I'm a terrible singer. :)
-Another interesting thing is: I have the chance to be Newton's eighteenth generation of students. The acadamic family tree is [here](/cv.pdf). Looking forward to the day!
+Another interesting thing is: I have the chance to be Newton's eighteenth generation of students. The acadamic family tree is [here](/AcademicFamilyTree.pdf). Looking forward to the day!
