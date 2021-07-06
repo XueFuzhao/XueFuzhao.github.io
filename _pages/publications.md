@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-( indicates equal contribution)
+(* indicates equal contribution)
 
 ## Preprint
 * Sequence Parallelism: Making 4D Parallelism Possible [Arxiv](https://arxiv.org/abs/2105.13120)  \
