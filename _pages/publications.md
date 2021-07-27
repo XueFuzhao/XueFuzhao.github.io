@@ -9,7 +9,7 @@ author_profile: true
 
 ## Preprint
 * Go Wider Instead of Deeper [Arxiv](https://arxiv.org/abs/2107.11817)  \
-  Fuzhao Xue, Ziji Shi, Yuxuan Lou, Yong Liu, Yang Youu
+  Fuzhao Xue, Ziji Shi, Yuxuan Lou, Yong Liu, Yang You
   *arXiv preprint **arXiv:2107.11817***
 
 * Sequence Parallelism: Making 4D Parallelism Possible [Arxiv](https://arxiv.org/abs/2105.13120)  \
