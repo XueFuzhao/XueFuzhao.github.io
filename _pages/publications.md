@@ -8,6 +8,10 @@ author_profile: true
 (* indicates equal contribution)
 
 ## Preprint
+* Automated Audio Captioning using Transfer Learning and Reconstruction Latent Space Similarity Regularization [Arxiv](https://arxiv.org/abs/2108.04692)  \
+  Andrew Koh, **Fuzhao Xue**, Eng Siong Chng
+  *arXiv preprint **arXiv:2108.04692***
+
 * Go Wider Instead of Deeper [Arxiv](https://arxiv.org/abs/2107.11817)  \
   **Fuzhao Xue**, Ziji Shi, Yuxuan Lou, Yong Liu, Yang You
   *arXiv preprint **arXiv:2107.11817***
