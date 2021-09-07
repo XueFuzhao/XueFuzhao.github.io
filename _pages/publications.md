@@ -8,6 +8,12 @@ author_profile: true
 (* indicates equal contribution)
 
 ## Preprint
+
+
+* Sparse-MLP: A Fully-MLP Architecture with Conditional Computation [Arxiv](https://arxiv.org/abs/2109.02008)  \
+  Yuxuan Lou, **Fuzhao Xue**, Zangwei Zheng, Yang You
+  *arXiv preprint **arXiv:2109.02008***
+
 * Automated Audio Captioning using Transfer Learning and Reconstruction Latent Space Similarity Regularization [Arxiv](https://arxiv.org/abs/2108.04692)  \
   Andrew Koh, **Fuzhao Xue**, Eng Siong Chng
   *arXiv preprint **arXiv:2108.04692***
