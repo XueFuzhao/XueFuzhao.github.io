@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Fuzhao Xue. You can also call me Frio if you prefer. I'm a first-year PhD student of [HPC-AI](https://ai.comp.nus.edu.sg/) under the supervision of Prof. [You Yang](https://www.comp.nus.edu.sg/~youy/) at National University of Singapore (NUS). I received my MEng degree from Nanyang Technological University (NTU) with an outstanding academic performance (5.0/5.0), supervised by [Prof Chng Eng Siong](https://www3.ntu.edu.sg/home/aseschng/default.html/) & [Prof Sun Aixin](https://personal.ntu.edu.sg/axsun/). Before joining NTU, I was a research intern at National University of Singapore, supervised by [Prof Wang Ye](https://smcnus.comp.nus.edu.sg/). Please check my [CV](/cv.pdf) for further information. 
+My name is Fuzhao Xue. You can also call me Frio if you prefer. I'm a first-year PhD student of [HPC-AI](https://ai.comp.nus.edu.sg/) under the supervision of Prof. [You Yang](https://www.comp.nus.edu.sg/~youy/) at National University of Singapore (NUS). I received my MEng degree from Nanyang Technological University (NTU) with an outstanding academic performance (5.0/5.0), supervised by [Prof Chng Eng Siong](https://www3.ntu.edu.sg/home/aseschng/default.html/) & [Prof Sun Aixin](https://personal.ntu.edu.sg/axsun/). Please check my [CV](/cv.pdf) for further information. 
 
 Research
 ======
@@ -40,9 +40,7 @@ News
 
 \[2020.7] Start my MEng study at NTU, supervised by Prof Chng Eng Siong and Prof. Sun Aixin.  
 
-\[2020.6]. Got one second-authored paper accepted to **ICML 2020**. Thanks and Congrats to Hengguan!
-
-\[2019.10] Start my research internship at [SMC @ NUS](https://smcnus.comp.nus.edu.sg/), supervised by Prof Wang Ye.  
+\[2020.6]. Got one second-authored paper accepted to **ICML 2020**. Thanks to all my collaborators!
 
 
 Personal information
