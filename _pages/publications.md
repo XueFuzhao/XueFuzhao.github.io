@@ -9,6 +9,9 @@ author_profile: true
 
 ## Preprint
 
+* Large-Scale Deep Learning Optimizations: A Comprehensive Survey [Arxiv](https://arxiv.org/abs/2111.00856)  \
+  Xiaoxin He, **Fuzhao Xue**, Xiaozhe Ren, Yang You
+  *arXiv preprint **arXiv:2111.00856***
 
 * Sparse-MLP: A Fully-MLP Architecture with Conditional Computation [Arxiv](https://arxiv.org/abs/2109.02008)  \
   Yuxuan Lou, **Fuzhao Xue**, Zangwei Zheng, Yang You
