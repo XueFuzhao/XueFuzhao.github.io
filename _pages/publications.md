@@ -21,10 +21,6 @@ author_profile: true
   Andrew Koh, **Fuzhao Xue**, Eng Siong Chng
   *arXiv preprint **arXiv:2108.04692***
 
-* Go Wider Instead of Deeper [Arxiv](https://arxiv.org/abs/2107.11817)  \
-  **Fuzhao Xue**, Ziji Shi, Yuxuan Lou, Yong Liu, Yang You
-  *arXiv preprint **arXiv:2107.11817***
-
 * Sequence Parallelism: Making 4D Parallelism Possible [Arxiv](https://arxiv.org/abs/2105.13120)  \
   Shenggui Li \*, **Fuzhao Xue** * , Yongbin Li, Yang You
   *arXiv preprint **arXiv: 2105.13120***  (\* indicates equal contribution)
@@ -37,6 +33,12 @@ author_profile: true
   **Fuzhao Xue**, Aixin Sun, Hao Zhang, Eng-Siong Chng
   *arXiv preprint **arXiv: 2012.13873***
 
+
+## 2022
+* Go Wider Instead of Deeper [Arxiv](https://arxiv.org/abs/2107.11817)  \
+  **Fuzhao Xue**, Ziji Shi, Yuxuan Lou, Yong Liu, Yang You
+  *Published at **Association for the Advancement of Artificial Intelligence (AAAI) 2022***
+  
 ## 2021
 * RACP: A network with Attention Corrected Prototype for Few-shot Speaker Recognition using Indefinite Distance Metric  \
   Xingmei Wang, Jiaxiang Meng, Bin Wen, **Fuzhao Xue**
