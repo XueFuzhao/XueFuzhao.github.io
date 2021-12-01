@@ -38,6 +38,9 @@ author_profile: true
   *arXiv preprint **arXiv: 2012.13873***
 
 ## 2021
+* RACP: A network with Attention Corrected Prototype for Few-shot Speaker Recognition using Indefinite Distance Metric  \
+  Xingmei Wang, Jiaxiang Meng, Bin Wen, **Fuzhao Xue**
+  *Published at **Neurocomputing***
 * GDPNet: Refining Latent Multi-View Graph for Relation Extraction [Arxiv](https://arxiv.org/abs/2012.06780) [Code](https://github.com/XueFuzhao/GDPNet)  \
   **Fuzhao Xue**, Aixin Sun, Hao Zhang, Eng-Siong Chng
   *Published at **Association for the Advancement of Artificial Intelligence (AAAI) 2021***
