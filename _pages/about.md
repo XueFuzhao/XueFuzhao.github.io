@@ -16,8 +16,9 @@ My current research mainly focus on Natural Language Processing, Machine Learnin
 
 Specifically I am interested in the following research topics:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**NLP: Language Modeling and Relation Extraction.**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**ML: Conditional Computation, Bayesian Deep Learning and Graph Neural Network.**   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**HPC: Distributed Machine Learning.**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**HPC: Model Parallelism and Large-scale Pretraining.**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**ML: Conditional Computation and Graph Neural Network.**   
+
 
 
 Awards
@@ -32,6 +33,8 @@ Awards
 
 News
 ======
+\[2021.12]. Got one first-authored paper accepted to **AAAI 2022**. Thanks to all my collaborators!
+
 \[2021.3]. Awarded by [President's Graduate Fellowship](https://www.nus.edu.sg/registrar/prospective-students/graduate/scholarship/president-s-graduate-fellowship-(pgf)) . Do appereciate the supervisors, friends and my parents. 
 
 \[2021.3]. I will join [HPC-AI @ NUS](https://ai.comp.nus.edu.sg/) lab to start my Ph.D. degree under the supervision of Presidential Young Prof. [You Yang](https://www.comp.nus.edu.sg/~youy/)!
