@@ -37,7 +37,7 @@ author_profile: true
 ## 2022
 * Go Wider Instead of Deeper [Arxiv](https://arxiv.org/abs/2107.11817)  \
   **Fuzhao Xue**, Ziji Shi, Yuxuan Lou, Yong Liu, Yang You
-  *Published at **Association for the Advancement of Artificial Intelligence (AAAI) 2022***
+  *Published at **Association for the Advancement of Artificial Intelligence (AAAI) 2022 (Acceptence rate: 15.0%)***
   
 ## 2021
 * RACP: A network with Attention Corrected Prototype for Few-shot Speaker Recognition using Indefinite Distance Metric  \
@@ -46,12 +46,12 @@ author_profile: true
   
 * GDPNet: Refining Latent Multi-View Graph for Relation Extraction [Arxiv](https://arxiv.org/abs/2012.06780) [Code](https://github.com/XueFuzhao/GDPNet)  \
   **Fuzhao Xue**, Aixin Sun, Hao Zhang, Eng-Siong Chng
-  *Published at **Association for the Advancement of Artificial Intelligence (AAAI) 2021***
+  *Published at **Association for the Advancement of Artificial Intelligence (AAAI) 2021 (Acceptence rate: 21.4%)***
   
 ## 2020
 * Deep Graph Random Process for Relational-Thinking-Based Speech Recognition [Arxiv](https://arxiv.org/abs/2007.02126)   \
   Hengguan Huang, **Fuzhao Xue**, Hao Wang, Ye Wang
-  *Published at **International Conference on Machine Learning (ICML) 2020***
+  *Published at **International Conference on Machine Learning (ICML) 2020 (Acceptence rate: 21.5%)***
 
 * A network model of speaker identification with new feature extraction methods and asymmetric BLSTM  
   Xingmei Wang, **Fuzhao Xue**, Wei Wang, Anhua Liu
