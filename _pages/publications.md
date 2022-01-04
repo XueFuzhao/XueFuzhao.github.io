@@ -42,7 +42,7 @@ author_profile: true
 ## 2021
 * RACP: A network with Attention Corrected Prototype for Few-shot Speaker Recognition using Indefinite Distance Metric  \
   Xingmei Wang, Jiaxiang Meng, Bin Wen, **Fuzhao Xue**
-  *Published at **Neurocomputing***
+  *Published at **Neurocomputing (Impact factor: 5.71)***
   
 * GDPNet: Refining Latent Multi-View Graph for Relation Extraction [Arxiv](https://arxiv.org/abs/2012.06780) [Code](https://github.com/XueFuzhao/GDPNet)  \
   **Fuzhao Xue**, Aixin Sun, Hao Zhang, Eng-Siong Chng
@@ -55,9 +55,9 @@ author_profile: true
 
 * A network model of speaker identification with new feature extraction methods and asymmetric BLSTM  
   Xingmei Wang, **Fuzhao Xue**, Wei Wang, Anhua Liu
-  *Published at **Neurocomputing***
+  *Published at **Neurocomputing (Impact factor: 5.71)***
   
 ## 2019
 * An Underwater Acoustic Target Recognition: A Combination of Multi-dimensional Fusion Features and Modified Deep Neural Network  
   Xingmei Wang, Anhua Liu, Yu Zhang, **Fuzhao Xue**
-  *Published at **Remote Sensing***
+  *Published at **Remote Sensing (Impact factor: 4.51)***
