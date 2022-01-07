@@ -10,6 +10,8 @@ redirect_from:
 
 My name is Fuzhao Xue. You can also call me Frio if you prefer. I'm a first-year PhD student of [HPC-AI](https://ai.comp.nus.edu.sg/) under the supervision of Prof. [You Yang](https://www.comp.nus.edu.sg/~youy/) at National University of Singapore (NUS). I received my MEng degree from Nanyang Technological University (NTU) with an outstanding academic performance (5.0/5.0), supervised by [Prof Chng Eng Siong](https://www3.ntu.edu.sg/home/aseschng/default.html/) & [Prof Sun Aixin](https://personal.ntu.edu.sg/axsun/). Please check my [CV](/cv.pdf) for further information. 
 
+**I'm looking for research internships. Please drop me an email if your team has openings. **   
+
 Research
 ======
 My current research mainly focus on Natural Language Processing, Machine Learning and High Performance Computing. One recent interest is designing algorithm and system to train large and efficient language models. In addition, I'm highly interested in many other related areas like Knowledge Graph and Speech. I am always happy to chat with others about interesting research ideas, and looking for academic collaborations. Please drop me an email if you are interested in collaborating with me.  
