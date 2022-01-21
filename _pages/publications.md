@@ -13,7 +13,7 @@ author_profile: true
   Xiaoxin He, **Fuzhao Xue**, Xiaozhe Ren, Yang You
   *arXiv preprint **arXiv:2111.00856***
 
-* Sparse-MLP: A Fully-MLP Architecture with Conditional Computation [Arxiv](https://arxiv.org/abs/2109.02008)  \
+* Cross-token Modeling with Conditional Computation [Arxiv](https://arxiv.org/abs/2109.02008)  \
   Yuxuan Lou, **Fuzhao Xue**, Zangwei Zheng, Yang You
   *arXiv preprint **arXiv:2109.02008***
 
@@ -21,7 +21,7 @@ author_profile: true
   Andrew Koh, **Fuzhao Xue**, Eng Siong Chng
   *arXiv preprint **arXiv:2108.04692***
 
-* Sequence Parallelism: Making 4D Parallelism Possible [Arxiv](https://arxiv.org/abs/2105.13120)  \
+* Sequence Parallelism: Long Sequence Training from System Perspective [Arxiv](https://arxiv.org/abs/2105.13120)  \
   Shenggui Li \*, **Fuzhao Xue** * , Yongbin Li, Yang You
   *arXiv preprint **arXiv: 2105.13120***  (\* indicates equal contribution)
 
