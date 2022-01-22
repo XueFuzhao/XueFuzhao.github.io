@@ -35,6 +35,8 @@ Awards
 
 News
 ======
+\[2022.1]. Got two papers (one first-authored) accepted to **ICASSP 2022**. Congratulations to Andrew! Thanks to Prof. Sun, Hao Zhang, and Jinjie Ni!
+
 \[2021.12]. Got one first-authored paper accepted to **AAAI 2022**. Thanks to all my collaborators!
 
 \[2021.3]. Awarded by [President's Graduate Fellowship](https://www.nus.edu.sg/registrar/prospective-students/graduate/scholarship/president-s-graduate-fellowship-(pgf)) . Do appereciate the supervisors, friends and my parents. 
