@@ -17,10 +17,6 @@ author_profile: true
   Yuxuan Lou, **Fuzhao Xue**, Zangwei Zheng, Yang You
   *arXiv preprint **arXiv:2109.02008***
 
-* Automated Audio Captioning using Transfer Learning and Reconstruction Latent Space Similarity Regularization [Arxiv](https://arxiv.org/abs/2108.04692)  \
-  Andrew Koh, **Fuzhao Xue**, Eng Siong Chng
-  *arXiv preprint **arXiv:2108.04692***
-
 * Sequence Parallelism: Long Sequence Training from System Perspective [Arxiv](https://arxiv.org/abs/2105.13120)  \
   Shenggui Li \*, **Fuzhao Xue** * , Yongbin Li, Yang You
   *arXiv preprint **arXiv: 2105.13120***  (\* indicates equal contribution)
@@ -29,12 +25,17 @@ author_profile: true
   Jinjie Ni, Tom Young, Vlad Pandelea, **Fuzhao Xue**, Vinay Adiga, Erik Cambria
   *arXiv preprint **arXiv: 2105.04387***
 
-* An Embarrassingly Simple Model for Dialogue Relation Extraction [Arxiv](http://arxiv.org/abs/2012.13873)  \
-  **Fuzhao Xue**, Aixin Sun, Hao Zhang, Eng-Siong Chng
-  *arXiv preprint **arXiv: 2012.13873***
 
 
 ## 2022
+* An Embarrassingly Simple Model for Dialogue Relation Extraction [Arxiv](http://arxiv.org/abs/2012.13873)  \
+  **Fuzhao Xue**, Aixin Sun, Hao Zhang, Eng-Siong Chng
+  *Accepted at **IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2022***
+
+* Automated Audio Captioning using Transfer Learning and Reconstruction Latent Space Similarity Regularization [Arxiv](https://arxiv.org/abs/2108.04692)  \
+  Andrew Koh, **Fuzhao Xue**, Eng Siong Chng
+  *Accepted at **IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2022***
+
 * Go Wider Instead of Deeper [Arxiv](https://arxiv.org/abs/2107.11817)  \
   **Fuzhao Xue**, Ziji Shi, Yuxuan Lou, Yong Liu, Yang You
   *Published at **Association for the Advancement of Artificial Intelligence (AAAI) 2022 (Acceptence rate: 15.0%)***
