@@ -11,7 +11,7 @@ author_profile: true
 
 * One Student Knows All Experts Know: From Sparse to Dense [Arxiv](https://arxiv.org/abs/2201.10890)  \
   **Fuzhao Xue**, Xiaoxin He, Xiaozhe Ren, Yuxuan Lou, Yang You
-  *arXiv preprint **arXiv:2111.00856***
+  *arXiv preprint **arXiv:2201.10890***
 
 * Large-Scale Deep Learning Optimizations: A Comprehensive Survey [Arxiv](https://arxiv.org/abs/2111.00856)  \
   Xiaoxin He, **Fuzhao Xue**, Xiaozhe Ren, Yang You
