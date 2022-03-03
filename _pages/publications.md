@@ -32,7 +32,7 @@ author_profile: true
 
 
 ## 2022
-* An Embarrassingly Simple Model for Dialogue Relation Extraction [Arxiv](http://arxiv.org/abs/2012.13873)  \
+* An Embarrassingly Simple Model for Dialogue Relation Extraction [Arxiv](http://arxiv.org/abs/2012.13873) [Code](https://github.com/XueFuzhao/SimpleRE.git)  \
   **Fuzhao Xue**, Aixin Sun, Hao Zhang, Eng-Siong Chng
   *Accepted at **IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2022***
 
