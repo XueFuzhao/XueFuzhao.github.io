@@ -35,6 +35,8 @@ Awards
 
 News
 ======
+\[2022.3]. Got one paper accepted to **CVPR 2022**. Thanks to all my collaborators!
+
 \[2022.1]. Got two papers (one first-authored) accepted to **ICASSP 2022**. Congratulations to Andrew! Thanks to Prof. Sun, Hao Zhang, and Jinjie Ni!
 
 \[2021.12]. Got one first-authored paper accepted to **AAAI 2022**. Thanks to all my collaborators!
