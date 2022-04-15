@@ -35,7 +35,7 @@ author_profile: true
 
 * Modeling Motion with Multi-Modal Features for Text-Based Video Segmentation [Arxiv](https://arxiv.org/pdf/2204.02547) [Code](https://github.com/kaiwang960112/2022CVPR-MMMMTBVS) \
   Wangbo Zhao, Kai Wang, Xiangxiang Chu, **Fuzhao Xue**, Xinchao Wang, and Yang You
-  **IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022***
+  *Accepted at **IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022 (Acceptence rate: 25.3%)***
 
 * An Embarrassingly Simple Model for Dialogue Relation Extraction [Arxiv](http://arxiv.org/abs/2012.13873) [Code](https://github.com/XueFuzhao/SimpleRE.git)  \
   **Fuzhao Xue**, Aixin Sun, Hao Zhang, Eng-Siong Chng
