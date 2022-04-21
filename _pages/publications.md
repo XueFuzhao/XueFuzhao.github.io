@@ -9,6 +9,10 @@ author_profile: true
 
 ## Preprint
 
+* CowClip: Reducing CTR Prediction Model Training Time from 12 hours to 10 minutes on 1 GPU [Arxiv](https://arxiv.org/abs/2204.06240)  \
+  Zangwei Zheng, Pengtai Xu, Xuan Zou, Da Tang, Zhen Li, Chenguang Xi, Peng Wu, Leqi Zou, Yijie Zhu, Ming Chen, Xiangzhuo Ding, **Fuzhao Xue**, Ziheng Qing, Youlong Cheng, Yang You
+  *arXiv preprint **arXiv:2201.10890***
+  
 * One Student Knows All Experts Know: From Sparse to Dense [Arxiv](https://arxiv.org/abs/2201.10890)  \
   **Fuzhao Xue**, Xiaoxin He, Xiaozhe Ren, Yuxuan Lou, Yang You
   *arXiv preprint **arXiv:2201.10890***
