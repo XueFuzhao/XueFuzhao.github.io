@@ -9,6 +9,10 @@ author_profile: true
 
 ## Preprint
 
+* Deeper vs Wider: A Revisit of Transformer Configuration [Arxiv](https://arxiv.org/abs/2205.10505)  \
+  **Fuzhao Xue**, Jianghai Chen, Aixin Sun, Xiaozhe Ren, Zangwei Zheng, Xiaoxin He, Xin Jiang, Yang You
+  *arXiv preprint **arXiv:2205.10505***
+  
 * CowClip: Reducing CTR Prediction Model Training Time from 12 hours to 10 minutes on 1 GPU [Arxiv](https://arxiv.org/abs/2204.06240)  \
   Zangwei Zheng, Pengtai Xu, Xuan Zou, Da Tang, Zhen Li, Chenguang Xi, Peng Wu, Leqi Zou, Yijie Zhu, Ming Chen, Xiangzhuo Ding, **Fuzhao Xue**, Ziheng Qing, Youlong Cheng, Yang You
   *arXiv preprint **arXiv:2201.10890***
