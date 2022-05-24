@@ -51,6 +51,9 @@ News
 
 \[2020.6]. Got one second-authored paper accepted to **ICML 2020**. Thanks to all my collaborators!
 
+Professional services
+------
+2022: SIGIR (PC Member), ICML (Reviewer)
 
 Personal information
 ------
