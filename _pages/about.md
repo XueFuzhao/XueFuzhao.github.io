@@ -16,7 +16,7 @@ Now, I'm also a student researcher at Google AI, working with [Yi Tay](https://v
 
 Research
 ======
-My current research mainly focus on Natural Language Processing, Machine Learning and High Performance Computing. One recent interest is designing algorithm and system to train large and efficient language models. In addition, I'm highly interested in many other related areas like Knowledge Graph and Speech. I am always happy to chat with others about interesting research ideas, and looking for academic collaborations. Please drop me an email if you are interested in collaborating with me.  
+My current research mainly focus on Machine Learning, Natural Language Processing, and High Performance Computing. One recent interest is designing algorithm and system to train large and efficient language models. In addition, I'm highly interested in many other related areas like Knowledge Graph and Speech. I am always happy to chat with others about interesting research ideas, and looking for academic collaborations. Please drop me an email if you are interested in collaborating with me.  
 
 Specifically I am interested in the following research topics:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**ML: Conditional Computation and Self-supervised Learning.**   
