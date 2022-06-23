@@ -8,18 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-My name is Fuzhao Xue. You can also call me Frio if you prefer. I'm a PhD candidate of [HPC-AI](https://ai.comp.nus.edu.sg/) under the supervision of Prof. [You Yang](https://www.comp.nus.edu.sg/~youy/) at National University of Singapore (NUS). I received my MEng degree from Nanyang Technological University (NTU) with an outstanding academic performance (5.0/5.0) in 2021, supervised by [Prof Chng Eng Siong](https://www3.ntu.edu.sg/home/aseschng/default.html/) & [Prof Sun Aixin](https://personal.ntu.edu.sg/axsun/). Please check my [CV](/cv.pdf) for further information. 
+My name is Fuzhao Xue. You can also call me Frio if you prefer. I'm a PhD candidate of [HPC-AI](https://ai.comp.nus.edu.sg/) under the supervision of Prof. [You Yang](https://www.comp.nus.edu.sg/~youy/) at National University of Singapore (NUS). I received my MEng degree from Nanyang Technological University (NTU) with an outstanding academic performance (5.0/5.0) in 2021, supervised by [Prof Chng Eng Siong](https://www3.ntu.edu.sg/home/aseschng/default.html/) & [Prof Sun Aixin](https://personal.ntu.edu.sg/axsun/). 
 
-**I'm looking for research internships. Please drop me an email if your team has openings.**   
+Now, I'm also a student researcher at Google AI, working with [Yi Tay](https://vanzytay.github.io/) and [Mostafa Dehghani](https://mostafadehghani.com/). Please check my [CV](/cv.pdf) for further information. 
+
+
 
 Research
 ======
 My current research mainly focus on Natural Language Processing, Machine Learning and High Performance Computing. One recent interest is designing algorithm and system to train large and efficient language models. In addition, I'm highly interested in many other related areas like Knowledge Graph and Speech. I am always happy to chat with others about interesting research ideas, and looking for academic collaborations. Please drop me an email if you are interested in collaborating with me.  
 
 Specifically I am interested in the following research topics:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**ML: Conditional Computation and Self-supervised Learning.**   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**NLP: Language Modeling and Relation Extraction.**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**HPC: Model Parallelism and Large-scale Pretraining.**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**ML: Conditional Computation and Graph Neural Network.**   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**HPC: Model Parallelism and Large-scale Deep Learning System.**  
+
 
 
 
@@ -35,6 +38,8 @@ Awards
 
 News
 ======
+\[2022.7]. Glad to join Google AI as a student researcher under the supervision of [Yi Tay](https://vanzytay.github.io/) and [Mostafa Dehghani](https://mostafadehghani.com/)!
+
 \[2022.5]. Passed the qualifying exam. Cong to myself:), and thanks for my supervisor and friends' help! 
 
 \[2022.3]. Got one paper accepted to **CVPR 2022**. Thanks to all my collaborators!
@@ -55,7 +60,7 @@ News
 
 Professional services
 ------
-2022: SIGIR (PC Member), ICML (Reviewer)
+2022: EMNLP (Reviewer), SIGIR (PC Member), ICML (Reviewer)
 
 Personal information
 ------
