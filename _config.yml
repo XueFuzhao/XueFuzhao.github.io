@@ -10,7 +10,7 @@ locale                   : "zh-Chinese"
 title                    : "Fuzhao (Frio) Xue"
 title_separator          : "-"
 name                     : &name "Fuzhao (Frio) Xue"
-description              : &description "PhD Student at National University of Singapore"
+description              : &description "PhD Candidate at National University of Singapore"
 url                      : https://XueFuzhao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "XueFuzhao.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Fuzhao Xue"
   avatar           : "2.jpg"
-  bio              : "PhD Student at National University of Singapore. "
+  bio              : "PhD Candidate at National University of Singapore. Student Researcher at Google AI"
   location         : "Singapore"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"wangchunshu"
+  twitter          : "XueFz"
   vine             :
   weibo            :
   xing             :
