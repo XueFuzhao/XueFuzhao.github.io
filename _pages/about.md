@@ -60,8 +60,9 @@ News
 
 Professional services
 ------
-Conference 2022: EMNLP (Reviewer), SIGIR (PC Member), ICML (Reviewer)
 Journal: TKDE (Reviewer)
+
+Conference 2022: EMNLP (Reviewer), SIGIR (PC Member), ICML (Reviewer)
 
 Personal information
 ------
