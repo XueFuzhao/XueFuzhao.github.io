@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Fuzhao Xue. I understand this name is a bit hard to pronounce. Please feel free to call me Frio, Draw or Firgid if you prefer. I like these English names :D. Frio sounds similar to Fuzhao, and Draw is actuall the same as zhao. I also like Firgid because I was born in Harbin, one of the coolest city in China.
-
-I'm a PhD candidate of [HPC-AI](https://ai.comp.nus.edu.sg/) under the supervision of Prof. [You Yang](https://www.comp.nus.edu.sg/~youy/) at National University of Singapore (NUS). I received my MEng degree from Nanyang Technological University (NTU) with an outstanding academic performance (5.0/5.0) in 2021, supervised by [Prof Chng Eng Siong](https://www3.ntu.edu.sg/home/aseschng/default.html/) & [Prof Sun Aixin](https://personal.ntu.edu.sg/axsun/). 
+My name is Fuzhao Xue. I understand this name is a bit hard to pronounce. Please feel free to call me Frio if you prefer. I'm a PhD candidate of [HPC-AI](https://ai.comp.nus.edu.sg/) under the supervision of Prof. [You Yang](https://www.comp.nus.edu.sg/~youy/) at National University of Singapore (NUS). I received my MEng degree from Nanyang Technological University (NTU) with an outstanding academic performance (5.0/5.0) in 2021, supervised by [Prof Chng Eng Siong](https://www3.ntu.edu.sg/home/aseschng/default.html/) & [Prof Sun Aixin](https://personal.ntu.edu.sg/axsun/). 
 
 Now, I'm also a student researcher at Google AI, working with [Yi Tay](https://vanzytay.github.io/) and [Mostafa Dehghani](https://mostafadehghani.com/). Please check my [CV](/cv.pdf) for further information. 
 
@@ -21,7 +19,7 @@ Research
 My current research mainly focus on Machine Learning, Natural Language Processing, and High Performance Computing. One recent interest is designing algorithm and system to train large and efficient language models. In addition, I'm highly interested in many other related areas like Knowledge Graph and Speech. I am always happy to chat with others about interesting research ideas, and looking for academic collaborations. Please drop me an email if you are interested in collaborating with me.  
 
 Specifically I am interested in the following research topics:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**ML: Conditional Computation and Self-supervised Learning.**   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**ML: Adaptive Computation, Conditional Computation and Self-supervised Learning.**   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**NLP: Language Modeling and Relation Extraction.**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**HPC: Model Parallelism and Large-scale Deep Learning System.**  
 
