@@ -38,6 +38,8 @@ Awards
 
 News
 ======
+\[2022.8]. Got one paper accepted to **Artificial Intelligence Review**. Congratulations to Jinjie!
+
 \[2022.7]. Glad to join Google AI as a student researcher under the supervision of [Yi Tay](https://vanzytay.github.io/) and [Mostafa Dehghani](https://mostafadehghani.com/)!
 
 \[2022.5]. Passed the qualifying exam. Cong to myself:), and thanks for my supervisor and friends' help! 
