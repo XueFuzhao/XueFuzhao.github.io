@@ -33,13 +33,15 @@ author_profile: true
   Shenggui Li \*, **Fuzhao Xue** * , Yongbin Li, Yang You
   *arXiv preprint **arXiv: 2105.13120***  (\* indicates equal contribution)
 
-* Recent Advances in Deep Learning-based Dialogue Systems [Arxiv](https://arxiv.org/abs/2105.04387)  \
-  Jinjie Ni, Tom Young, Vlad Pandelea, **Fuzhao Xue**, Vinay Adiga, Erik Cambria
-  *arXiv preprint **arXiv: 2105.04387***
+
 
 
 
 ## 2022
+
+* Recent Advances in Deep Learning-based Dialogue Systems [Arxiv](https://arxiv.org/abs/2105.04387)  \
+  Jinjie Ni, Tom Young, Vlad Pandelea, **Fuzhao Xue**, Vinay Adiga, Erik Cambria
+  *Accepted at **Artificial Intelligence Review***
 
 * Modeling Motion with Multi-Modal Features for Text-Based Video Segmentation [Arxiv](https://arxiv.org/pdf/2204.02547) [Code](https://github.com/kaiwang960112/2022CVPR-MMMMTBVS) \
   Wangbo Zhao, Kai Wang, Xiangxiang Chu, **Fuzhao Xue**, Xinchao Wang, and Yang You
