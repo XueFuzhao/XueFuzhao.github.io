@@ -55,7 +55,7 @@ author_profile: true
   Andrew Koh, **Fuzhao Xue**, Eng Siong Chng
   *Accepted at **IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2022***
 
-* Go Wider Instead of Deeper [Arxiv](https://arxiv.org/abs/2107.11817)  \
+* Go Wider Instead of Deeper [Arxiv](https://arxiv.org/abs/2107.11817) [Code](https://github.com/XueFuzhao/WideNet_Code)  \
   **Fuzhao Xue**, Ziji Shi, Yuxuan Lou, Yong Liu, Yang You
   *Published at **Association for the Advancement of Artificial Intelligence (AAAI) 2022 (Acceptence rate: 15.0%)***
   
