@@ -10,7 +10,7 @@ redirect_from:
 
 My name is Fuzhao Xue. I understand this name is a bit hard to pronounce. Please feel free to call me Frio if you prefer. I'm a PhD candidate of [HPC-AI](https://ai.comp.nus.edu.sg/) under the supervision of Prof. [You Yang](https://www.comp.nus.edu.sg/~youy/) at National University of Singapore (NUS). I received my MEng degree from Nanyang Technological University (NTU) with an outstanding academic performance (5.0/5.0) in 2021, supervised by [Prof Chng Eng Siong](https://www3.ntu.edu.sg/home/aseschng/default.html/) & [Prof Sun Aixin](https://personal.ntu.edu.sg/axsun/). 
 
-Now, I'm also a student researcher at Google AI, working with [Yi Tay](https://vanzytay.github.io/) and [Mostafa Dehghani](https://mostafadehghani.com/). Please check my [CV](/cv.pdf) for further information. 
+Now, I'm also a student researcher at [Google Brain](https://research.google/teams/brain/), working with [Yi Tay](https://vanzytay.github.io/) and [Mostafa Dehghani](https://mostafadehghani.com/). Please check my [CV](/cv.pdf) for further information. 
 
 
 
@@ -40,7 +40,7 @@ News
 ======
 \[2022.8]. Got one paper accepted to **Artificial Intelligence Review**. Congratulations to Jinjie!
 
-\[2022.7]. Glad to join Google AI as a student researcher under the supervision of [Yi Tay](https://vanzytay.github.io/) and [Mostafa Dehghani](https://mostafadehghani.com/)!
+\[2022.7]. Glad to join [Google Brain](https://research.google/teams/brain/) as a student researcher under the supervision of [Yi Tay](https://vanzytay.github.io/) and [Mostafa Dehghani](https://mostafadehghani.com/)!
 
 \[2022.5]. Passed the qualifying exam. Cong to myself:), and thanks for my supervisor and friends' help! 
 
