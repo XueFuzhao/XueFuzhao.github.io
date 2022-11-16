@@ -65,6 +65,8 @@ Professional services
 ------
 Journal: TKDE (Reviewer)
 
+Conference 2023: CVPR (Reviewer)
+
 Conference 2022: EMNLP (Reviewer), SIGIR (PC Member), ICML (Reviewer)
 
 Personal information
