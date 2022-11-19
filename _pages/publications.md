@@ -13,10 +13,6 @@ author_profile: true
   **Fuzhao Xue**, Jianghai Chen, Aixin Sun, Xiaozhe Ren, Zangwei Zheng, Xiaoxin He, Xin Jiang, Yang You
   *arXiv preprint **arXiv:2205.10505***
   
-* CowClip: Reducing CTR Prediction Model Training Time from 12 hours to 10 minutes on 1 GPU [Arxiv](https://arxiv.org/abs/2204.06240) [Code](https://github.com/bytedance/LargeBatchCTR)  \
-  Zangwei Zheng, Pengtai Xu, Xuan Zou, Da Tang, Zhen Li, Chenguang Xi, Peng Wu, Leqi Zou, Yijie Zhu, Ming Chen, Xiangzhuo Ding, **Fuzhao Xue**, Ziheng Qing, Youlong Cheng, Yang You
-  *arXiv preprint **arXiv:2201.10890***
-  
 * One Student Knows All Experts Know: From Sparse to Dense [Arxiv](https://arxiv.org/abs/2201.10890)  \
   **Fuzhao Xue**, Xiaoxin He, Xiaozhe Ren, Yuxuan Lou, Yang You
   *arXiv preprint **arXiv:2201.10890***
@@ -39,21 +35,25 @@ author_profile: true
 
 ## 2022
 
+* CowClip: Reducing CTR Prediction Model Training Time from 12 hours to 10 minutes on 1 GPU [Arxiv](https://arxiv.org/abs/2204.06240) [Code](https://github.com/bytedance/LargeBatchCTR)  \
+  Zangwei Zheng, Pengtai Xu, Xuan Zou, Da Tang, Zhen Li, Chenguang Xi, Peng Wu, Leqi Zou, Yijie Zhu, Ming Chen, Xiangzhuo Ding, **Fuzhao Xue**, Ziheng Qing, Youlong Cheng, Yang You
+  *Accepted at **Association for the Advancement of Artificial Intelligence (AAAI) 2022 (Acceptence rate: 19.6%)***
+
 * Recent Advances in Deep Learning-based Dialogue Systems [Arxiv](https://arxiv.org/abs/2105.04387)  \
   Jinjie Ni, Tom Young, Vlad Pandelea, **Fuzhao Xue**, Vinay Adiga, Erik Cambria
-  *Accepted at **Artificial Intelligence Review***
+  *Published at **Artificial Intelligence Review***
 
 * Modeling Motion with Multi-Modal Features for Text-Based Video Segmentation [Arxiv](https://arxiv.org/pdf/2204.02547) [Code](https://github.com/kaiwang960112/2022CVPR-MMMMTBVS) \
   Wangbo Zhao, Kai Wang, Xiangxiang Chu, **Fuzhao Xue**, Xinchao Wang, and Yang You
-  *Accepted at **IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022 (Acceptence rate: 25.3%)***
+  *Published at **IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022 (Acceptence rate: 25.3%)***
 
 * An Embarrassingly Simple Model for Dialogue Relation Extraction [Arxiv](http://arxiv.org/abs/2012.13873) [Code](https://github.com/XueFuzhao/SimpleRE.git)  \
   **Fuzhao Xue**, Aixin Sun, Hao Zhang, Eng-Siong Chng
-  *Accepted at **IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2022***
+  *Published at **IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2022***
 
 * Automated Audio Captioning using Transfer Learning and Reconstruction Latent Space Similarity Regularization [Arxiv](https://arxiv.org/abs/2108.04692)  \
   Andrew Koh, **Fuzhao Xue**, Eng Siong Chng
-  *Accepted at **IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2022***
+  *Published at **IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2022***
 
 * Go Wider Instead of Deeper [Arxiv](https://arxiv.org/abs/2107.11817) [Code](https://github.com/XueFuzhao/WideNet_Code)  \
   **Fuzhao Xue**, Ziji Shi, Yuxuan Lou, Yong Liu, Yang You
