@@ -39,7 +39,9 @@ Awards
 
 News
 ======
-\[2022.8]. Got one paper accepted to **Artificial Intelligence Review**. Congratulations to Jinjie!
+\[2022.11]. Got one paper accepted to **AAAI 2023**. Congratulations to [Zangwei](https://zhengzangw.com/)!
+
+\[2022.8]. Got one paper accepted to **Artificial Intelligence Review**. Congratulations to [Jinjie](http://jinjie.one/)!
 
 \[2022.7]. Glad to join [Google Brain](https://research.google/teams/brain/) as a student researcher under the supervision of [Yi Tay](https://vanzytay.github.io/) and [Mostafa Dehghani](https://mostafadehghani.com/)!
 
