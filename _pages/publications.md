@@ -33,11 +33,13 @@ author_profile: true
 
 
 
-## 2022
+## 2023
 
 * CowClip: Reducing CTR Prediction Model Training Time from 12 hours to 10 minutes on 1 GPU [Arxiv](https://arxiv.org/abs/2204.06240) [Code](https://github.com/bytedance/LargeBatchCTR)  \
   Zangwei Zheng, Pengtai Xu, Xuan Zou, Da Tang, Zhen Li, Chenguang Xi, Peng Wu, Leqi Zou, Yijie Zhu, Ming Chen, Xiangzhuo Ding, **Fuzhao Xue**, Ziheng Qing, Youlong Cheng, Yang You
   *Accepted at **Association for the Advancement of Artificial Intelligence (AAAI) 2023 (Acceptence rate: 19.6%)***
+
+## 2022
 
 * Recent Advances in Deep Learning-based Dialogue Systems [Arxiv](https://arxiv.org/abs/2105.04387)  \
   Jinjie Ni, Tom Young, Vlad Pandelea, **Fuzhao Xue**, Vinay Adiga, Erik Cambria
