@@ -37,7 +37,7 @@ author_profile: true
 
 * CowClip: Reducing CTR Prediction Model Training Time from 12 hours to 10 minutes on 1 GPU [Arxiv](https://arxiv.org/abs/2204.06240) [Code](https://github.com/bytedance/LargeBatchCTR)  \
   Zangwei Zheng, Pengtai Xu, Xuan Zou, Da Tang, Zhen Li, Chenguang Xi, Peng Wu, Leqi Zou, Yijie Zhu, Ming Chen, Xiangzhuo Ding, **Fuzhao Xue**, Ziheng Qing, Youlong Cheng, Yang You
-  *Accepted at **Association for the Advancement of Artificial Intelligence (AAAI) 2023 (Acceptence rate: 19.6%)***
+  *Accepted at Association for the Advancement of Artificial Intelligence (**AAAI**) 2023 (**Oral**)  (Acceptence rate: 19.6%)*
 
 ## 2022
 
@@ -47,19 +47,19 @@ author_profile: true
 
 * Modeling Motion with Multi-Modal Features for Text-Based Video Segmentation [Arxiv](https://arxiv.org/pdf/2204.02547) [Code](https://github.com/kaiwang960112/2022CVPR-MMMMTBVS) \
   Wangbo Zhao, Kai Wang, Xiangxiang Chu, **Fuzhao Xue**, Xinchao Wang, and Yang You
-  *Published at **IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022 (Acceptence rate: 25.3%)***
+  *Published at IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2022 (Acceptence rate: 25.3%)*
 
 * An Embarrassingly Simple Model for Dialogue Relation Extraction [Arxiv](http://arxiv.org/abs/2012.13873) [Code](https://github.com/XueFuzhao/SimpleRE.git)  \
   **Fuzhao Xue**, Aixin Sun, Hao Zhang, Eng-Siong Chng
-  *Published at **IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2022***
+  *Published at IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**) 2022*
 
 * Automated Audio Captioning using Transfer Learning and Reconstruction Latent Space Similarity Regularization [Arxiv](https://arxiv.org/abs/2108.04692)  \
   Andrew Koh, **Fuzhao Xue**, Eng Siong Chng
-  *Published at **IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2022***
+  *Published at IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**) 2022*
 
 * Go Wider Instead of Deeper [Arxiv](https://arxiv.org/abs/2107.11817) [Code](https://github.com/XueFuzhao/WideNet_Code)  \
   **Fuzhao Xue**, Ziji Shi, Yuxuan Lou, Yong Liu, Yang You
-  *Published at **Association for the Advancement of Artificial Intelligence (AAAI) 2022 (Acceptence rate: 15.0%)***
+  *Published at Association for the Advancement of Artificial Intelligence (**AAAI**) 2022 (Acceptence rate: 15.0%)*
   
 ## 2021
 * RACP: A network with Attention Corrected Prototype for Few-shot Speaker Recognition using Indefinite Distance Metric  \
@@ -68,12 +68,12 @@ author_profile: true
   
 * GDPNet: Refining Latent Multi-View Graph for Relation Extraction [Arxiv](https://arxiv.org/abs/2012.06780) [Code](https://github.com/XueFuzhao/GDPNet)  \
   **Fuzhao Xue**, Aixin Sun, Hao Zhang, Eng-Siong Chng
-  *Published at **Association for the Advancement of Artificial Intelligence (AAAI) 2021 (Acceptence rate: 21.4%)***
+  *Published at Association for the Advancement of Artificial Intelligence (**AAAI**) 2021 (Acceptence rate: 21.4%)*
   
 ## 2020
 * Deep Graph Random Process for Relational-Thinking-Based Speech Recognition [Arxiv](https://arxiv.org/abs/2007.02126)   \
   Hengguan Huang, **Fuzhao Xue**, Hao Wang, Ye Wang
-  *Published at **International Conference on Machine Learning (ICML) 2020 (Acceptence rate: 21.5%)***
+  *Published at International Conference on Machine Learning (**ICML**) 2020 (Acceptence rate: 21.5%)*
 
 * A network model of speaker identification with new feature extraction methods and asymmetric BLSTM  
   Xingmei Wang, **Fuzhao Xue**, Wei Wang, Anhua Liu
