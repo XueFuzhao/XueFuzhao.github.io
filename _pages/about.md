@@ -30,7 +30,7 @@ Awards
 
 News
 ======
-\[2022.11]. Got one paper accepted to **AAAI 2023**. Congratulations to [Zangwei](https://zhengzangw.com/)!
+\[2022.11]. Got one paper accepted to **AAAI 2023 Oral**. Congratulations to [Zangwei](https://zhengzangw.com/)!
 
 \[2022.8]. Got one paper accepted to **Artificial Intelligence Review**. Congratulations to [Jinjie](http://jinjie.one/)!
 
