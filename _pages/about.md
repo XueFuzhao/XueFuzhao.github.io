@@ -12,19 +12,10 @@ My name is Fuzhao Xue. I understand this name is a bit hard to pronounce in Engl
 
 I also worked as a student researcher at [Google Brain](https://research.google/teams/brain/), with [Yi Tay](https://vanzytay.github.io/) and [Mostafa Dehghani](https://mostafadehghani.com/). Please check my [CV](/cv.pdf) for further information.
 
-I'm currently looking for the internship and visiting scholar oppoturnities. Please feel free to drop me email if you have any opening.
-
-
 
 Research
 ======
-My current research mainly focus on Machine Learning, Natural Language Processing, and High Performance Computing. One recent interest is designing algorithm and system to train large and efficient language models. In addition, I'm highly interested in many other related areas like Knowledge Graph, Computer Vision and Speech. I am always happy to chat with others about interesting research ideas, and looking for academic collaborations. Please drop me an email if you are interested in collaborating with me.  
-
-Specifically I am interested in the following research topics:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**ML: Adaptive Computation, Conditional Computation and Foundation Model.**   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**NLP: Language Modeling and Relation Extraction.**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**HPC: Large-scale Deep Learning System.**  
-
+My current research mainly focus on Machine Learning, Natural Language Processing, and High Performance Computing. One recent interest is designing algorithm and system to train efficient large language model and other foundation models (e.g. vision, embodied agent). I am always happy to chat about interesting research ideas, and looking for academic collaborations. Please drop me an email if you are interested in collaborating with me.  
 
 
 Awards
