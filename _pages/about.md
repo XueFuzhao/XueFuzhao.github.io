@@ -64,5 +64,5 @@ Conference 2022: EMNLP (Reviewer), SIGIR (PC Member), ICML (Reviewer)
 
 Personal information
 ------
-Personal Hobbies: basketball, swimming and fitness. I also enjoy watching movies and listening to music, although I'm a terrible singer. :)
+Personal Hobbies: basketball, fitness and cooking. I also enjoy watching movies and listening to music, although, unfortunately, I'm a terrible singer. Fortunately, I think I have a gift for cooking. Maybe you can say Fuzhao (Frio) is zero-shot cooking learner. :)
 Another interesting thing is: I have the chance to be Newton's eighteenth generation of students. The acadamic family tree is [here](/AcademicFamilyTree.pdf). Looking forward to the day!
