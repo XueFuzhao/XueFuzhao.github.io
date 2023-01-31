@@ -9,6 +9,10 @@ author_profile: true
 
 ## Preprint
 
+* Adaptive Computation with Elastic Input Sequence [Arxiv](https://arxiv.org/abs/2301.13195)  \
+  **Fuzhao Xue**, Valerii Likhosherstov, Anurag Arnab, Neil Houlsby, Mostafa Dehghani, Yang You
+  *arXiv preprint **arXiv:2301.13195***
+  
 * Deeper vs Wider: A Revisit of Transformer Configuration [Arxiv](https://arxiv.org/abs/2205.10505)  \
   **Fuzhao Xue**, Jianghai Chen, Aixin Sun, Xiaozhe Ren, Zangwei Zheng, Xiaoxin He, Xin Jiang, Yang You
   *arXiv preprint **arXiv:2205.10505***
