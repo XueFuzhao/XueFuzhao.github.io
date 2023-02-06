@@ -20,6 +20,8 @@ My current research mainly focus on Machine Learning, Natural Language Processin
 
 Awards
 ======
+\[2023] AAAI 2023 Distinguished Paper Award
+
 \[2021] NUS President's Graduate Fellowship
 
 \[2018] 4th Place of China AI Futurelab Contest
