@@ -30,6 +30,8 @@ Awards
 
 News
 ======
+\[2022.11]. [CowClip](https://arxiv.org/abs/2204.06240) won the **AAAI Distinguished Paper Award**. Congratulations to [Zangwei](https://zhengzangw.com/) and all co-authors!
+
 \[2022.11]. Got one paper accepted to **AAAI 2023 Oral**. Congratulations to [Zangwei](https://zhengzangw.com/)!
 
 \[2022.8]. Got one paper accepted to **Artificial Intelligence Review**. Congratulations to [Jinjie](http://jinjie.one/)!
@@ -47,12 +49,6 @@ News
 \[2021.3]. Awarded by [President's Graduate Fellowship](https://www.nus.edu.sg/registrar/prospective-students/graduate/scholarship/president-s-graduate-fellowship-(pgf)) . Do appereciate the supervisors, friends and my parents. 
 
 \[2021.3]. I will join [HPC-AI @ NUS](https://ai.comp.nus.edu.sg/) lab to start my Ph.D. degree under the supervision of Presidential Young Prof. [You Yang](https://www.comp.nus.edu.sg/~youy/)!
-
-\[2020.12]. Got one first-authored paper accepted to **AAAI 2021**. Thanks to all my collaborators!
-
-\[2020.7] Start my MEng study at NTU, supervised by Prof Chng Eng Siong and Prof. Sun Aixin.  
-
-\[2020.6]. Got one second-authored paper accepted to **ICML 2020**. Thanks to all my collaborators!
 
 Professional services
 ------
