@@ -32,7 +32,7 @@ Awards
 
 News
 ======
-\[2022.11]. [CowClip](https://arxiv.org/abs/2204.06240) won the **AAAI Distinguished Paper Award**. Congratulations to [Zangwei](https://zhengzangw.com/) and all co-authors!
+\[2023.2]. [CowClip](https://arxiv.org/abs/2204.06240) won the **AAAI Distinguished Paper Award**. Congratulations to [Zangwei](https://zhengzangw.com/) and all co-authors!
 
 \[2022.11]. Got one paper accepted to **AAAI 2023 Oral**. Congratulations to [Zangwei](https://zhengzangw.com/)!
 
