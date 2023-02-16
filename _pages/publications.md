@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Papers"
 permalink: /publications/
 author_profile: true
 ---
@@ -25,16 +25,9 @@ author_profile: true
   Xiaoxin He, **Fuzhao Xue**, Xiaozhe Ren, Yang You
   *arXiv preprint **arXiv:2111.00856***
 
-* Cross-token Modeling with Conditional Computation [Arxiv](https://arxiv.org/abs/2109.02008)  \
-  Yuxuan Lou, **Fuzhao Xue**, Zangwei Zheng, Yang You
-  *arXiv preprint **arXiv:2109.02008***
-
 * Sequence Parallelism: Long Sequence Training from System Perspective [Arxiv](https://arxiv.org/abs/2105.13120)  \
   Shenggui Li \*, **Fuzhao Xue** * , Yongbin Li, Yang You
   *arXiv preprint **arXiv: 2105.13120***  (\* indicates equal contribution)
-
-
-
 
 
 ## 2023
@@ -64,7 +57,7 @@ author_profile: true
 * Go Wider Instead of Deeper [Arxiv](https://arxiv.org/abs/2107.11817) [Code](https://github.com/XueFuzhao/WideNet_Code)  \
   **Fuzhao Xue**, Ziji Shi, Yuxuan Lou, Yong Liu, Yang You
   *Published at Association for the Advancement of Artificial Intelligence (**AAAI**) 2022 (Acceptence rate: 15.0%)*
-  
+
 ## 2021
 * RACP: A network with Attention Corrected Prototype for Few-shot Speaker Recognition using Indefinite Distance Metric  \
   Xingmei Wang, Jiaxiang Meng, Bin Wen, **Fuzhao Xue**
@@ -73,6 +66,9 @@ author_profile: true
 * GDPNet: Refining Latent Multi-View Graph for Relation Extraction [Arxiv](https://arxiv.org/abs/2012.06780) [Code](https://github.com/XueFuzhao/GDPNet)  \
   **Fuzhao Xue**, Aixin Sun, Hao Zhang, Eng-Siong Chng
   *Published at Association for the Advancement of Artificial Intelligence (**AAAI**) 2021 (Acceptence rate: 21.4%)*
+  
+* Cross-token Modeling with Conditional Computation [Arxiv](https://arxiv.org/abs/2109.02008)  \
+  Yuxuan Lou, **Fuzhao Xue**, Zangwei Zheng, Yang You
   
 ## 2020
 * Deep Graph Random Process for Relational-Thinking-Based Speech Recognition [Arxiv](https://arxiv.org/abs/2007.02126)   \
