@@ -56,7 +56,7 @@ Professional services
 ------
 Journal: TKDE (Reviewer)
 
-Conference 2023: CVPR (Reviewer), ACL (PC Member)
+Conference 2023: NeurIPs (Reviewer), CVPR (Reviewer), ACL (PC Member)
 
 Conference 2022: EMNLP (Reviewer), SIGIR (PC Member), ICML (Reviewer)
 
