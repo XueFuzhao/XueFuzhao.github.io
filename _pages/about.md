@@ -32,6 +32,8 @@ Awards
 
 News
 ======
+\[2023.3]. Got two papers (one first-authored) accepted to **ICLR 2023 Tiny Track**. Congratulations to [Liuxiao]([https://zhengzangw.com/](https://www.linkedin.com/in/xiao-liu-34971b205/?originalSubdomain=sg))! It is noteworthy that one of these two papers are extended from one course project. I was the TA of the course.
+
 \[2023.2]. [CowClip](https://arxiv.org/abs/2204.06240) won the **AAAI Distinguished Paper Award**. Congratulations to [Zangwei](https://zhengzangw.com/) and all co-authors!
 
 \[2022.11]. Got one paper accepted to **AAAI 2023 Oral**. Congratulations to [Zangwei](https://zhengzangw.com/)!
