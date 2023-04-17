@@ -26,13 +26,10 @@ Awards
 
 \[2018] 4th Place of China AI Futurelab Contest
 
-\[2017] 2nd Prize of 2017 National Robot and Artificial Intelligence Competition "Human-like Robot Dash Project"
-
-\[2016-2018] 6 times University First-Class Scholarship 
 
 News
 ======
-\[2023.3]. Got one paper accepted to **ICLR 2023 Tiny Track**. Congratulations to [Liuxiao]([https://zhengzangw.com/](https://www.linkedin.com/in/xiao-liu-34971b205/?originalSubdomain=sg))! It is noteworthy that this paper is extended from one course project. I'm so proud to be the TA of this course and fortunate to work with this team.
+\[2023.3]. Got one paper accepted to **ICLR 2023 Tiny Track**. Congratulations to [Liuxiao](https://www.linkedin.com/in/xiao-liu-34971b205/?originalSubdomain=sg)! It is noteworthy that this paper is extended from one course project. I'm so proud to be the TA of this course and fortunate to work with this team.
 
 \[2023.2]. [CowClip](https://arxiv.org/abs/2204.06240) won the **AAAI Distinguished Paper Award**. Congratulations to [Zangwei](https://zhengzangw.com/) and all co-authors!
 
@@ -50,9 +47,6 @@ News
 
 \[2021.12]. Got one first-authored paper accepted to **AAAI 2022**. Thanks to all my collaborators!
 
-\[2021.3]. Awarded by [President's Graduate Fellowship](https://www.nus.edu.sg/registrar/prospective-students/graduate/scholarship/president-s-graduate-fellowship-(pgf)) . Do appereciate the supervisors, friends and my parents. 
-
-\[2021.3]. I will join [HPC-AI @ NUS](https://ai.comp.nus.edu.sg/) lab to start my Ph.D. degree under the supervision of Presidential Young Prof. [You Yang](https://www.comp.nus.edu.sg/~youy/)!
 
 Professional services
 ------
