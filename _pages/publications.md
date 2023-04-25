@@ -9,13 +9,7 @@ author_profile: true
 
 ## Preprint
 
-* Adaptive Computation with Elastic Input Sequence [Arxiv](https://arxiv.org/abs/2301.13195)  \
-  **Fuzhao Xue**, Valerii Likhosherstov, Anurag Arnab, Neil Houlsby, Mostafa Dehghani, Yang You
-  *arXiv preprint **arXiv:2301.13195***
-  
-* Deeper vs Wider: A Revisit of Transformer Configuration [Arxiv](https://arxiv.org/abs/2205.10505)  \
-  **Fuzhao Xue**, Jianghai Chen, Aixin Sun, Xiaozhe Ren, Zangwei Zheng, Xiaoxin He, Xin Jiang, Yang You
-  *arXiv preprint **arXiv:2205.10505***  
+
   
 * One Student Knows All Experts Know: From Sparse to Dense [Arxiv](https://arxiv.org/abs/2201.10890)  \
   **Fuzhao Xue**, Xiaoxin He, Xiaozhe Ren, Yuxuan Lou, Yang You
@@ -31,6 +25,14 @@ author_profile: true
 
 
 ## 2023
+
+* Adaptive Computation with Elastic Input Sequence [Arxiv](https://arxiv.org/abs/2301.13195) [Code](https://github.com/google-research/scenic/tree/main/scenic/projects/adatape) \
+  **Fuzhao Xue**, Valerii Likhosherstov, Anurag Arnab, Neil Houlsby, Mostafa Dehghani, Yang You
+  *Accepted at International Conference on Machine Learning (**ICML**) 2023 (Acceptence rate: 27.9%)*
+  
+* A Study on Transformer Configuration and Training Objective [Arxiv](https://arxiv.org/abs/2205.10505) \
+  **Fuzhao Xue**, Jianghai Chen, Aixin Sun, Xiaozhe Ren, Zangwei Zheng, Xiaoxin He, Xin Jiang, Yang You
+  *Accepted at International Conference on Machine Learning (**ICML**) 2023 (Acceptence rate: 27.9%)*
 
 * CowClip: Reducing CTR Prediction Model Training Time from 12 hours to 10 minutes on 1 GPU [Arxiv](https://arxiv.org/abs/2204.06240) [Code](https://github.com/bytedance/LargeBatchCTR)  \
   Zangwei Zheng, Pengtai Xu, Xuan Zou, Da Tang, Zhen Li, Chenguang Xi, Peng Wu, Leqi Zou, Yijie Zhu, Ming Chen, Xiangzhuo Ding, **Fuzhao Xue**, Ziheng Qing, Youlong Cheng, Yang You
