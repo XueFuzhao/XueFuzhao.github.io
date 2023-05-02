@@ -29,6 +29,8 @@ Awards
 
 News
 ======
+\[2023.5]. Got one first-authored paper (equal contribution with [Shenggui Li](https://scholar.google.com/citations?user=XuwmCz4AAAAJ&hl=en)) accepted to **ACL 2023**. Cong to Shenggui and myself! Thanks to all my collaborators!
+
 \[2023.4]. Got two first-authored paper accepted to **ICML 2023**. Thanks to all my collaborators!
 
 \[2023.3]. Got one paper accepted to **ICLR 2023 Tiny Track**. Congratulations to [Liuxiao](https://www.linkedin.com/in/xiao-liu-34971b205/?originalSubdomain=sg)! It is noteworthy that this paper is extended from one course project. I'm so proud to be the TA of this course and fortunate to work with this team.
