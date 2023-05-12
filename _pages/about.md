@@ -10,7 +10,7 @@ redirect_from:
 
 My name is Fuzhao Xue. I understand this name is a bit hard to pronounce in English. It sounds like Full-Draw Xue. Please also feel free to call me Frio if you prefer. I'm a PhD candidate of [HPC-AI](https://ai.comp.nus.edu.sg/) under the supervision of Prof. [You Yang](https://www.comp.nus.edu.sg/~youy/) at National University of Singapore (NUS). I received my MEng degree from Nanyang Technological University (NTU) with an outstanding academic performance (5.0/5.0) in 2021, supervised by [Prof Chng Eng Siong](https://www3.ntu.edu.sg/home/aseschng/default.html/) & [Prof Sun Aixin](https://personal.ntu.edu.sg/axsun/). 
 
-I also worked as a student researcher at [Google Brain](https://research.google/teams/brain/), with [Yi Tay](https://vanzytay.github.io/) and [Mostafa Dehghani](https://mostafadehghani.com/). Please check my [CV](/cv.pdf) for further information.
+I'm fortunate to collaborate with exceptionally talented scientists in various companie. I was a student researcher at [Google Brain](https://research.google/teams/brain/), with [Yi Tay](https://vanzytay.github.io/) and [Mostafa Dehghani](https://mostafadehghani.com/). I'm working with [Jim Fan](https://jimfan.me/) and [Yuke Zhu](https://www.cs.utexas.edu/~yukez/) as a research intern at [NVIDIA AI](https://www.nvidia.com/en-sg/ai-data-science/). Please check my [CV](/cv.pdf) for further information. 
 
 
 Research
