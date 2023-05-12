@@ -43,14 +43,6 @@ News
 
 \[2022.7]. Glad to join [Google Brain](https://research.google/teams/brain/) as a student researcher under the supervision of [Yi Tay](https://vanzytay.github.io/) and [Mostafa Dehghani](https://mostafadehghani.com/)!
 
-\[2022.5]. Passed the qualifying exam. Cong to myself:), and thanks for my supervisor and friends' help! 
-
-\[2022.3]. Got one paper accepted to **CVPR 2022**. Thanks to all my collaborators!
-
-\[2022.1]. Got two papers (one first-authored) accepted to **ICASSP 2022**. Congratulations to Andrew! Thanks to Prof. Sun, Hao Zhang, and Jinjie Ni!
-
-\[2021.12]. Got one first-authored paper accepted to **AAAI 2022**. Thanks to all my collaborators!
-
 
 Professional services
 ------
