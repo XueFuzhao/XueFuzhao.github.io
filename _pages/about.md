@@ -16,12 +16,12 @@ Throughout my academic journey, I have had the privilege to collaborate with exc
 
 
 Research
-======
+------
 My current research mainly focus on Machine Learning, Natural Language Processing, and High Performance Computing. One recent interest is designing algorithm and system to train efficient large language model and other foundation models (e.g. vision, embodied agent). I am always happy to chat about interesting research ideas, and looking for academic collaborations. Please drop me an email if you are interested in collaborating with me.  
 
 
 News
-======
+------
 \[2023.5]. Got one first-authored paper (equal contribution with [Shenggui Li](https://scholar.google.com/citations?user=XuwmCz4AAAAJ&hl=en)) accepted to **ACL 2023**. Cong to Shenggui and myself! Thanks to all my collaborators!
 
 \[2023.4]. Got two first-authored paper accepted to **ICML 2023**. Thanks to all my collaborators!
@@ -38,7 +38,7 @@ News
 
 
 Awards
-======
+------
 \[2023] AAAI 2023 Distinguished Paper Award
 
 \[2021] NUS President's Graduate Fellowship
