@@ -12,20 +12,12 @@ My name is Fuzhao Xue. I understand this name is a bit hard to pronounce in Engl
 
 I'm fortunate to collaborate with exceptionally talented scientists in various companie. I was a student researcher at [Google Brain](https://research.google/teams/brain/), with [Yi Tay](https://vanzytay.github.io/) and [Mostafa Dehghani](https://mostafadehghani.com/). Now, I'm working with [Jim Fan](https://jimfan.me/) and [Yuke Zhu](https://www.cs.utexas.edu/~yukez/) as a research intern at [NVIDIA AI](https://www.nvidia.com/en-sg/ai-data-science/). Please check my [CV](/cv.pdf) for further information. 
 
-**I'm looking for the internship opportunities in 2023 Fall, Winter and 2024 Spring, Summer. Please drop me an email if you have openings.** 
+**I am actively seeking internship opportunities for the Fall and Winter of 2023, as well as the Spring and Summer of 2024. If you have any openings available, kindly reach out to me via email.** 
+
 
 Research
 ======
 My current research mainly focus on Machine Learning, Natural Language Processing, and High Performance Computing. One recent interest is designing algorithm and system to train efficient large language model and other foundation models (e.g. vision, embodied agent). I am always happy to chat about interesting research ideas, and looking for academic collaborations. Please drop me an email if you are interested in collaborating with me.  
-
-
-Awards
-======
-\[2023] AAAI 2023 Distinguished Paper Award
-
-\[2021] NUS President's Graduate Fellowship
-
-\[2018] 4th Place of China AI Futurelab Contest
 
 
 News
@@ -43,6 +35,15 @@ News
 \[2022.8]. Got one paper accepted to **Artificial Intelligence Review**. Congratulations to [Jinjie](http://jinjie.one/)!
 
 \[2022.7]. Glad to join [Google Brain](https://research.google/teams/brain/) as a student researcher under the supervision of [Yi Tay](https://vanzytay.github.io/) and [Mostafa Dehghani](https://mostafadehghani.com/)!
+
+
+Awards
+======
+\[2023] AAAI 2023 Distinguished Paper Award
+
+\[2021] NUS President's Graduate Fellowship
+
+\[2018] 4th Place of China AI Futurelab Contest
 
 
 Professional services
