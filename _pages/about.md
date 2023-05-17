@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Fuzhao Xue, which is pronounced as Full-Draw Xue in English. Alternatively, you may call me Frio if you prefer. I'm a PhD candidate of [HPC-AI](https://ai.comp.nus.edu.sg/) under the supervision of Prof. [You Yang](https://www.comp.nus.edu.sg/~youy/) at National University of Singapore (NUS). I hold an MEng degree from Nanyang Technological University (NTU), where I achieved outstanding academic performance with a perfect GPA of 5.0/5.0 in 2021. During my master's studies, I was fortunate to be supervised by [Prof Chng Eng Siong](https://www3.ntu.edu.sg/home/aseschng/default.html/) & [Prof Sun Aixin](https://personal.ntu.edu.sg/axsun/). 
+My name is Fuzhao Xue, which is pronounced as Full-Draw Xue in English. Alternatively, you may call me Frio if you prefer. I'm a PhD candidate of [HPC-AI](https://ai.comp.nus.edu.sg/) under the supervision of [Prof. Yang You](https://www.comp.nus.edu.sg/~youy/) at National University of Singapore (NUS). I hold an MEng degree from Nanyang Technological University (NTU), where I achieved outstanding academic performance with a perfect GPA of 5.0/5.0 in 2021. During my master's studies, I was fortunate to be supervised by [Prof Eng Siong Chng](https://www3.ntu.edu.sg/home/aseschng/default.html/) & [Prof Aixin Sun](https://personal.ntu.edu.sg/axsun/). 
 
 Throughout my academic journey, I have had the privilege to collaborate with exceptionally talented scientists in various companies. Previously, I worked as a student researcher at  [Google Brain](https://research.google/teams/brain/), under the guidance of [Yi Tay](https://vanzytay.github.io/) and [Mostafa Dehghani](https://mostafadehghani.com/).Currently, I am a research intern at [NVIDIA AI](https://www.nvidia.com/en-sg/ai-data-science/), working alongside [Jim Fan](https://jimfan.me/) and [Yuke Zhu](https://www.cs.utexas.edu/~yukez/). Please check my [CV](/cv.pdf) for further information. 
 
@@ -43,9 +43,6 @@ Awards
 
 \[2021] NUS President's Graduate Fellowship
 
-\[2018] 4th Place of China AI Futurelab Contest
-
-
 Professional services
 ------
 Journal: TKDE (Reviewer)
@@ -53,6 +50,12 @@ Journal: TKDE (Reviewer)
 Conference 2023: NeurIPs (Reviewer), CVPR (Reviewer), ACL (PC Member), WWW (Artifacts Reviewer)
 
 Conference 2022: EMNLP (Reviewer), SIGIR (PC Member), ICML (Reviewer)
+
+Teaching
+------
+\[2023] CS5260 Neural Networks and Deep Learning II, National University of Singapore
+
+\[2022] CS4248 Natural Language Processing, National University of Singapore
 
 Personal information
 ------
