@@ -7,13 +7,13 @@ main:
     url: /publications/
     
   - title: "Blog Posts"
-    url: /year-archive/
+    url: https://xuefuzhao.notion.site/xuefuzhao/Fuzhao-Xue-s-Blog-Space-01103bd34d2f465ba90198d8ecd08cf0
     
   #- title: "Talks"
     #url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  #- title: "Teaching"
+  #  url: /teaching/    
     
   #- title: "Portfolio"
   #  url: /portfolio/
