@@ -28,7 +28,7 @@ author_profile: true
   **Fuzhao Xue**, Jianghai Chen, Aixin Sun, Xiaozhe Ren, Zangwei Zheng, Xiaoxin He, Yongming Chen, Xin Jiang, Yang You
   *Accepted at International Conference on Machine Learning (**ICML**) 2023 (Acceptence rate: 27.9%)*
 
-* Sequence Parallelism: Long Sequence Training from System Perspective [Arxiv](https://arxiv.org/abs/2105.13120) [Code](https://github.com/google-research/scenic/tree/main/scenic/projects/adatape)  \
+* Sequence Parallelism: Long Sequence Training from System Perspective [Arxiv](https://arxiv.org/abs/2105.13120) [Code](https://github.com/google-research/scenic/tree/main/scenic/projects/adatape) [Video](https://www.youtube.com/watch?v=HLLVKb7Cszs)  \
   Shenggui Li \*, **Fuzhao Xue** * , Yongbin Li, Yang You
   *Accepted at Association for Computational Linguistics (**ACL**) 2023*  (\* indicates equal contribution)
 
