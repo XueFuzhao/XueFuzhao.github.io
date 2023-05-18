@@ -24,7 +24,7 @@ author_profile: true
   **Fuzhao Xue**, Valerii Likhosherstov, Anurag Arnab, Neil Houlsby, Mostafa Dehghani, Yang You
   *Accepted at International Conference on Machine Learning (**ICML**) 2023 (Acceptence rate: 27.9%)*
   
-* A Study on Transformer Configuration and Training Objective [[Arxiv]](https://arxiv.org/abs/2205.10505) \
+* A Study on Transformer Configuration and Training Objective [[Arxiv]](https://arxiv.org/abs/2205.10505) [[Code]](https://xuefuzhao.notion.site/What-is-the-relationship-between-training-objective-and-transformer-scaling-21bed80094734a0f970ec78df0e520e6) \
   **Fuzhao Xue**, Jianghai Chen, Aixin Sun, Xiaozhe Ren, Zangwei Zheng, Xiaoxin He, Yongming Chen, Xin Jiang, Yang You
   *Accepted at International Conference on Machine Learning (**ICML**) 2023 (Acceptence rate: 27.9%)*
 
