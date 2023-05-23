@@ -9,13 +9,17 @@ author_profile: true
 
 ## Preprint
 
+* To Repeat or Not To Repeat: Insights from Scaling LLM under Token-Crisis [[Arxiv]](https://arxiv.org/abs/2305.13230) \
+  **Fuzhao Xue**, Yao Fu, Wangchunshu Zhou, Zangwei Zheng, Yang You
+  *arXiv preprint **arXiv:2305.13230***
+
+* Response Length Perception and Sequence Scheduling: An LLM-Empowered LLM Inference Pipeline [[Arxiv]](https://arxiv.org/abs/2305.13144) [[Code]](https://github.com/zhengzangw/Sequence-Scheduling) [[Blog]](https://zhengzangw.github.io/blogs/seqsch/) \
+  Zangwei Zheng, Xiaozhe Ren, **Fuzhao Xue**, Yang Luo, Xin Jiang, Yang You
+  *arXiv preprint **arXiv:2305.13144***
+
 * One Student Knows All Experts Know: From Sparse to Dense [[Arxiv]](https://arxiv.org/abs/2201.10890)  \
   **Fuzhao Xue**, Xiaoxin He, Xiaozhe Ren, Yuxuan Lou, Yang You
   *arXiv preprint **arXiv:2201.10890***
-
-* Large-Scale Deep Learning Optimizations: A Comprehensive Survey [[Arxiv]](https://arxiv.org/abs/2111.00856)  \
-  Xiaoxin He, **Fuzhao Xue**, Xiaozhe Ren, Yang You
-  *arXiv preprint **arXiv:2111.00856***
 
 
 ## 2023
@@ -40,8 +44,8 @@ author_profile: true
   Xiao Liu, Jian Zhang, Heng Zhang, **Fuzhao Xue**, Yang You
   *Accepted at International Conference on Learning Representations (**ICLR Tiny Paper**) 2023*
 
-## 2022
 
+## 2022
 
 * Go Wider Instead of Deeper [[Arxiv]](https://arxiv.org/abs/2107.11817) [[Code]](https://github.com/XueFuzhao/WideNet_Code)  \
   **Fuzhao Xue**, Ziji Shi, Yuxuan Lou, Yong Liu, Yang You
@@ -63,11 +67,15 @@ author_profile: true
   Wangbo Zhao, Kai Wang, Xiangxiang Chu, **Fuzhao Xue**, Xinchao Wang, and Yang You
   *Published at IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2022 (Acceptence rate: 25.3%)*
 
+
 ## 2021
 
 * GDPNet: Refining Latent Multi-View Graph for Relation Extraction [[Arxiv]](https://arxiv.org/abs/2012.06780) [[Code]](https://github.com/XueFuzhao/GDPNet) [[Video]](https://slideslive.com/38948289/gdpnet-refining-latent-multiview-graph-for-relation-extraction) [[Slides]](https://26hzhang.github.io/files/GDPNet-slides.pdf) [[Poster]](https://26hzhang.github.io/files/GDPNet-poster.pdf) \
   **Fuzhao Xue**, Aixin Sun, Hao Zhang, Eng-Siong Chng
   *Published at Association for the Advancement of Artificial Intelligence (**AAAI**) 2021 (Acceptence rate: 21.4%)*
+  
+* Large-Scale Deep Learning Optimizations: A Comprehensive Survey [[Arxiv]](https://arxiv.org/abs/2111.00856)  \
+  Xiaoxin He, **Fuzhao Xue**, Xiaozhe Ren, Yang You
   
 * Cross-token Modeling with Conditional Computation [[Arxiv]](https://arxiv.org/abs/2109.02008)  \
   Yuxuan Lou, **Fuzhao Xue**, Zangwei Zheng, Yang You
@@ -75,7 +83,8 @@ author_profile: true
 * RACP: A network with Attention Corrected Prototype for Few-shot Speaker Recognition using Indefinite Distance Metric  \
   Xingmei Wang, Jiaxiang Meng, Bin Wen, **Fuzhao Xue**
   *Published at **Neurocomputing***
-  
+
+
 ## 2020
 * Deep Graph Random Process for Relational-Thinking-Based Speech Recognition [[Arxiv]](https://arxiv.org/abs/2007.02126)   \
   Hengguan Huang, **Fuzhao Xue**, Hao Wang, Ye Wang
@@ -84,7 +93,8 @@ author_profile: true
 * A network model of speaker identification with new feature extraction methods and asymmetric BLSTM  
   Xingmei Wang, **Fuzhao Xue**, Wei Wang, Anhua Liu
   *Published at **Neurocomputing***
-  
+
+
 ## 2019
 * An Underwater Acoustic Target Recognition: A Combination of Multi-dimensional Fusion Features and Modified Deep Neural Network  
   Xingmei Wang, Anhua Liu, Yu Zhang, **Fuzhao Xue**
