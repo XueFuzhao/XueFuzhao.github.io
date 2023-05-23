@@ -47,21 +47,22 @@ author_profile: true
   **Fuzhao Xue**, Aixin Sun, Hao Zhang, Eng-Siong Chng
   *Published at IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**) 2022*
 
-* Automated Audio Captioning using Transfer Learning and Reconstruction Latent Space Similarity Regularization [[Arxiv]](https://arxiv.org/abs/2108.04692)  \
-  Andrew Koh, **Fuzhao Xue**, Eng Siong Chng
-  *Published at IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**) 2022*
+* One Student Knows All Experts Know: From Sparse to Dense [[Arxiv]](https://arxiv.org/abs/2201.10890)  \
+  **Fuzhao Xue**, Xiaoxin He, Xiaozhe Ren, Yuxuan Lou, Yang You
+  *arXiv preprint **arXiv:2201.10890***
   
 * Recent Advances in Deep Learning-based Dialogue Systems [[Arxiv]](https://arxiv.org/abs/2105.04387)  \
   Jinjie Ni, Tom Young, Vlad Pandelea, **Fuzhao Xue**, Vinay Adiga, Erik Cambria
   *Published at **Artificial Intelligence Review***
+  
+* Automated Audio Captioning using Transfer Learning and Reconstruction Latent Space Similarity Regularization [[Arxiv]](https://arxiv.org/abs/2108.04692)  \
+  Andrew Koh, **Fuzhao Xue**, Eng Siong Chng
+  *Published at IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**) 2022*
 
 * Modeling Motion with Multi-Modal Features for Text-Based Video Segmentation [[Arxiv]](https://arxiv.org/pdf/2204.02547) [[Code]](https://github.com/kaiwang960112/2022CVPR-MMMMTBVS) \
   Wangbo Zhao, Kai Wang, Xiangxiang Chu, **Fuzhao Xue**, Xinchao Wang, and Yang You
   *Published at IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2022 (Acceptence rate: 25.3%)*
 
-* One Student Knows All Experts Know: From Sparse to Dense [[Arxiv]](https://arxiv.org/abs/2201.10890)  \
-  **Fuzhao Xue**, Xiaoxin He, Xiaozhe Ren, Yuxuan Lou, Yang You
-  *arXiv preprint **arXiv:2201.10890***
 
 ## 2021
 
