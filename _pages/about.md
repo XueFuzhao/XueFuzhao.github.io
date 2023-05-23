@@ -19,7 +19,35 @@ Research
 ------
 My current research mainly focus on Machine Learning, Natural Language Processing, and High Performance Computing. One recent interest is designing algorithm and system to train efficient large language model and other foundation models (e.g. vision, embodied agent). I am always happy to chat about interesting research ideas, and looking for academic collaborations. Please drop me an email if you are interested in collaborating with me.  
 
+Selected Publication
+------
+**Transformer Scaling**
+* To Repeat or Not To Repeat: Insights from Scaling LLM under Token-Crisis [[Arxiv]](https://arxiv.org/abs/2305.13230) \
+  **Fuzhao Xue**, Yao Fu, Wangchunshu Zhou, Zangwei Zheng, Yang You
+  *arXiv preprint **arXiv:2305.13230***
+  
+* A Study on Transformer Configuration and Training Objective [[Arxiv]](https://arxiv.org/abs/2205.10505) [[Code]](https://xuefuzhao.notion.site/What-is-the-relationship-between-training-objective-and-transformer-scaling-21bed80094734a0f970ec78df0e520e6) \
+  **Fuzhao Xue**, Jianghai Chen, Aixin Sun, Xiaozhe Ren, Zangwei Zheng, Xiaoxin He, Yongming Chen, Xin Jiang, Yang You
+  *Accepted at International Conference on Machine Learning (**ICML**) 2023 (Acceptence rate: 27.9%)*
 
+**Adaptive Computation** and **Conditional Computation**
+* Adaptive Computation with Elastic Input Sequence [[Arxiv]](https://arxiv.org/abs/2301.13195) [[Code]](https://github.com/google-research/scenic/tree/main/scenic/projects/adatape) \
+  **Fuzhao Xue**, Valerii Likhosherstov, Anurag Arnab, Neil Houlsby, Mostafa Dehghani, Yang You
+  *Accepted at International Conference on Machine Learning (**ICML**) 2023 (Acceptence rate: 27.9%)*
+  
+* Go Wider Instead of Deeper [[Arxiv]](https://arxiv.org/abs/2107.11817) [[Code]](https://github.com/XueFuzhao/WideNet_Code)  \
+  **Fuzhao Xue**, Ziji Shi, Yuxuan Lou, Yong Liu, Yang You
+  *Published at Association for the Advancement of Artificial Intelligence (**AAAI**) 2022 (Acceptence rate: 15.0%)*
+
+**AI System for Efficient AI** and **AI for Efficient AI System**
+* Sequence Parallelism: Long Sequence Training from System Perspective [[Arxiv]](https://arxiv.org/abs/2105.13120) [[Code]](https://github.com/google-research/scenic/tree/main/scenic/projects/adatape) [[Video]](https://www.youtube.com/watch?v=HLLVKb7Cszs)  \
+  Shenggui Li \*, **Fuzhao Xue** * , Yongbin Li, Yang You
+  *Accepted at Association for Computational Linguistics (**ACL**) 2023*  (\* indicates equal contribution)
+  
+* Response Length Perception and Sequence Scheduling: An LLM-Empowered LLM Inference Pipeline [[Arxiv]](https://arxiv.org/abs/2305.13144) [[Code]](https://github.com/zhengzangw/Sequence-Scheduling) [[Blog]](https://zhengzangw.github.io/blogs/seqsch/) \
+  Zangwei Zheng, Xiaozhe Ren, **Fuzhao Xue**, Yang Luo, Xin Jiang, Yang You
+  *arXiv preprint **arXiv:2305.13144***
+  
 News
 ------
 \[2023.5]. Got one first-authored paper (equal contribution with [Shenggui Li](https://scholar.google.com/citations?user=XuwmCz4AAAAJ&hl=en)) accepted to **ACL 2023**. Cong to Shenggui and myself! Thanks to all my collaborators!
