@@ -6,20 +6,12 @@ author_profile: true
 ---
 
 
-
-## Preprint
+## 2023
 
 * To Repeat or Not To Repeat: Insights from Scaling LLM under Token-Crisis [[Arxiv]](https://arxiv.org/abs/2305.13230) \
   **Fuzhao Xue**, Yao Fu, Wangchunshu Zhou, Zangwei Zheng, Yang You
   *arXiv preprint **arXiv:2305.13230***
-
-* Response Length Perception and Sequence Scheduling: An LLM-Empowered LLM Inference Pipeline [[Arxiv]](https://arxiv.org/abs/2305.13144) [[Code]](https://github.com/zhengzangw/Sequence-Scheduling) [[Blog]](https://zhengzangw.github.io/blogs/seqsch/) \
-  Zangwei Zheng, Xiaozhe Ren, **Fuzhao Xue**, Yang Luo, Xin Jiang, Yang You
-  *arXiv preprint **arXiv:2305.13144***
-
-
-## 2023
-
+  
 * Adaptive Computation with Elastic Input Sequence [[Arxiv]](https://arxiv.org/abs/2301.13195) [[Code]](https://github.com/google-research/scenic/tree/main/scenic/projects/adatape) \
   **Fuzhao Xue**, Valerii Likhosherstov, Anurag Arnab, Neil Houlsby, Mostafa Dehghani, Yang You
   *Accepted at International Conference on Machine Learning (**ICML**) 2023 (Acceptence rate: 27.9%)*
@@ -31,6 +23,10 @@ author_profile: true
 * Sequence Parallelism: Long Sequence Training from System Perspective [[Arxiv]](https://arxiv.org/abs/2105.13120) [[Code]](https://github.com/google-research/scenic/tree/main/scenic/projects/adatape) [[Video]](https://www.youtube.com/watch?v=HLLVKb7Cszs)  \
   Shenggui Li \*, **Fuzhao Xue** * , Yongbin Li, Yang You
   *Accepted at Association for Computational Linguistics (**ACL**) 2023*  (\* indicates equal contribution)
+
+* Response Length Perception and Sequence Scheduling: An LLM-Empowered LLM Inference Pipeline [[Arxiv]](https://arxiv.org/abs/2305.13144) [[Code]](https://github.com/zhengzangw/Sequence-Scheduling) [[Blog]](https://zhengzangw.github.io/blogs/seqsch/) \
+  Zangwei Zheng, Xiaozhe Ren, **Fuzhao Xue**, Yang Luo, Xin Jiang, Yang You
+  *arXiv preprint **arXiv:2305.13144***
 
 * CowClip: Reducing CTR Prediction Model Training Time from 12 hours to 10 minutes on 1 GPU [[Arxiv]](https://arxiv.org/abs/2204.06240) [[Code]](https://github.com/bytedance/LargeBatchCTR)  \
   Zangwei Zheng, Pengtai Xu, Xuan Zou, Da Tang, Zhen Li, Chenguang Xi, Peng Wu, Leqi Zou, Yijie Zhu, Ming Chen, Xiangzhuo Ding, **Fuzhao Xue**, Ziheng Qing, Youlong Cheng, Yang You
