@@ -17,10 +17,6 @@ author_profile: true
   Zangwei Zheng, Xiaozhe Ren, **Fuzhao Xue**, Yang Luo, Xin Jiang, Yang You
   *arXiv preprint **arXiv:2305.13144***
 
-* One Student Knows All Experts Know: From Sparse to Dense [[Arxiv]](https://arxiv.org/abs/2201.10890)  \
-  **Fuzhao Xue**, Xiaoxin He, Xiaozhe Ren, Yuxuan Lou, Yang You
-  *arXiv preprint **arXiv:2201.10890***
-
 
 ## 2023
 
@@ -67,6 +63,9 @@ author_profile: true
   Wangbo Zhao, Kai Wang, Xiangxiang Chu, **Fuzhao Xue**, Xinchao Wang, and Yang You
   *Published at IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2022 (Acceptence rate: 25.3%)*
 
+* One Student Knows All Experts Know: From Sparse to Dense [[Arxiv]](https://arxiv.org/abs/2201.10890)  \
+  **Fuzhao Xue**, Xiaoxin He, Xiaozhe Ren, Yuxuan Lou, Yang You
+  *arXiv preprint **arXiv:2201.10890***
 
 ## 2021
 
