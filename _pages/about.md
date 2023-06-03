@@ -12,7 +12,7 @@ My name is Fuzhao Xue, which is pronounced as Full-Draw Xue in English. Alternat
 
 Throughout my academic journey, I have had the privilege to collaborate with exceptionally talented scientists in various companies. Previously, I worked as a student researcher at  [Google Brain](https://research.google/teams/brain/), under the guidance of [Yi Tay](https://vanzytay.github.io/) and [Mostafa Dehghani](https://mostafadehghani.com/).Currently, I am a research intern at [NVIDIA AI](https://www.nvidia.com/en-sg/ai-data-science/), working alongside [Jim Fan](https://jimfan.me/) and [Yuke Zhu](https://www.cs.utexas.edu/~yukez/). Please check my [CV](/cv.pdf) for further information. 
 
-**I am actively seeking internship opportunities for the Fall and Winter of 2023, as well as the Spring and Summer of 2024. If you have any openings available, kindly reach out to me via email.** 
+**I am actively seeking internship opportunities for the Winter of 2023, as well as the Spring and Summer of 2024. If you have any openings available, kindly reach out to me via email.** 
 
 
 Research
@@ -26,7 +26,7 @@ Selected Papers ([all](https://xuefuzhao.github.io/publications/))
   **Fuzhao Xue**, Yao Fu, Wangchunshu Zhou, Zangwei Zheng, Yang You
   *arXiv preprint **arXiv:2305.13230***
   
-* A Study on Transformer Configuration and Training Objective [[Arxiv]](https://arxiv.org/abs/2205.10505) [[Code]](https://xuefuzhao.notion.site/What-is-the-relationship-between-training-objective-and-transformer-scaling-21bed80094734a0f970ec78df0e520e6) \
+* A Study on Transformer Configuration and Training Objective [[Arxiv]](https://arxiv.org/abs/2205.10505) [[Blog]](https://xuefuzhao.notion.site/What-is-the-relationship-between-training-objective-and-transformer-scaling-21bed80094734a0f970ec78df0e520e6) \
   **Fuzhao Xue**, Jianghai Chen, Aixin Sun, Xiaozhe Ren, Zangwei Zheng, Xiaoxin He, Yongming Chen, Xin Jiang, Yang You
   *Accepted at International Conference on Machine Learning (**ICML**) 2023 (Acceptence rate: 27.9%)*
 
