@@ -8,6 +8,10 @@ author_profile: true
 
 ## 2023
 
+* OpenMoE: Open Mixture-of-Experts Language Models [[Blog]](https://www.notion.so/Aug-2023-OpenMoE-v0-2-Release-43808efc0f5845caa788f2db52021879) [[Code]](https://github.com/XueFuzhao/OpenMoE)  \
+  **Fuzhao Xue**, Zian Zheng, Yao Fu, Jinjie Ni, Zangwei Zheng, Wangchunshu Zhou and Yang You
+  *GitHub repository*
+
 * To Repeat or Not To Repeat: Insights from Scaling LLM under Token-Crisis [[Arxiv]](https://arxiv.org/abs/2305.13230) \
   **Fuzhao Xue**, Yao Fu, Wangchunshu Zhou, Zangwei Zheng, Yang You
   *arXiv preprint **arXiv:2305.13230***
