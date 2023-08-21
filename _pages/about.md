@@ -19,7 +19,7 @@ Research
 ------
 My current research mainly focus on Machine Learning, Natural Language Processing, and High Performance Computing. One recent interest is designing algorithm and system to train efficient large language model and other foundation models (e.g. vision, embodied agent). I am always happy to chat about interesting research ideas, and looking for academic collaborations. Please drop me an email if you are interested in collaborating with me.  
 
-Selected Papers ([all](https://xuefuzhao.github.io/publications/))
+Selected Projects ([all](https://xuefuzhao.github.io/publications/))
 ------
 **Transformer Scaling**
 * To Repeat or Not To Repeat: Insights from Scaling LLM under Token-Crisis [[Arxiv]](https://arxiv.org/abs/2305.13230) \
@@ -31,6 +31,10 @@ Selected Papers ([all](https://xuefuzhao.github.io/publications/))
   *Accepted at International Conference on Machine Learning (**ICML**) 2023 (Acceptence rate: 27.9%)*
 
 **Adaptive Computation** and **Conditional Computation**
+* OpenMoE: Open Mixture-of-Experts Language Models [[Blog]](https://www.notion.so/Aug-2023-OpenMoE-v0-2-Release-43808efc0f5845caa788f2db52021879) [[Code]](https://github.com/XueFuzhao/OpenMoE)  \
+  **Fuzhao Xue**, Zian Zheng, Yao Fu, Jinjie Ni, Zangwei Zheng, Wangchunshu Zhou and Yang You
+  *GitHub repository*
+  
 * Adaptive Computation with Elastic Input Sequence [[Arxiv]](https://arxiv.org/abs/2301.13195) [[Code]](https://github.com/google-research/scenic/tree/main/scenic/projects/adatape) \
   **Fuzhao Xue**, Valerii Likhosherstov, Anurag Arnab, Neil Houlsby, Mostafa Dehghani, Yang You
   *Accepted at International Conference on Machine Learning (**ICML**) 2023 (Acceptence rate: 27.9%)*
