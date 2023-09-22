@@ -14,7 +14,7 @@ author_profile: true
 
 * To Repeat or Not To Repeat: Insights from Scaling LLM under Token-Crisis [[Arxiv]](https://arxiv.org/abs/2305.13230) \
   **Fuzhao Xue**, Yao Fu, Wangchunshu Zhou, Zangwei Zheng, Yang You
-  *arXiv preprint **arXiv:2305.13230***
+  *Accepted at International Conference on Machine Learning (**NeurIPS**) 2023 (Acceptence rate: 26.1%)*
   
 * Adaptive Computation with Elastic Input Sequence [[Arxiv]](https://arxiv.org/abs/2301.13195) [[Code]](https://github.com/google-research/scenic/tree/main/scenic/projects/adatape) [[Blog]](https://ai.googleblog.com/2023/08/adatape-foundation-model-with-adaptive.html) \
   **Fuzhao Xue**, Valerii Likhosherstov, Anurag Arnab, Neil Houlsby, Mostafa Dehghani, Yang You
@@ -30,7 +30,7 @@ author_profile: true
 
 * Response Length Perception and Sequence Scheduling: An LLM-Empowered LLM Inference Pipeline [[Arxiv]](https://arxiv.org/abs/2305.13144) [[Code]](https://github.com/zhengzangw/Sequence-Scheduling) [[Blog]](https://zhengzangw.github.io/blogs/seqsch/) \
   Zangwei Zheng, Xiaozhe Ren, **Fuzhao Xue**, Yang Luo, Xin Jiang, Yang You
-  *arXiv preprint **arXiv:2305.13144***
+  *Accepted at International Conference on Machine Learning (**NeurIPS**) 2023 (Acceptence rate: 26.1%)*
 
 * CowClip: Reducing CTR Prediction Model Training Time from 12 hours to 10 minutes on 1 GPU [[Arxiv]](https://arxiv.org/abs/2204.06240) [[Code]](https://github.com/bytedance/LargeBatchCTR)  \
   Zangwei Zheng, Pengtai Xu, Xuan Zou, Da Tang, Zhen Li, Chenguang Xi, Peng Wu, Leqi Zou, Yijie Zhu, Ming Chen, Xiangzhuo Ding, **Fuzhao Xue**, Ziheng Qing, Youlong Cheng, Yang You
