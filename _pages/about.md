@@ -24,7 +24,7 @@ Selected Projects ([all](https://xuefuzhao.github.io/publications/))
 **Transformer Scaling**
 * To Repeat or Not To Repeat: Insights from Scaling LLM under Token-Crisis [[Arxiv]](https://arxiv.org/abs/2305.13230) \
   **Fuzhao Xue**, Yao Fu, Wangchunshu Zhou, Zangwei Zheng, Yang You
-  *Accepted at International Conference on Machine Learning (**NeurIPS**) 2023 (Acceptence rate: 26.1%)*
+  *Accepted at Neural Information Processing Systems (**NeurIPS**) 2023 (Acceptence rate: 26.1%)*
   
 * A Study on Transformer Configuration and Training Objective [[Arxiv]](https://arxiv.org/abs/2205.10505) [[Blog]](https://xuefuzhao.notion.site/What-is-the-relationship-between-training-objective-and-transformer-scaling-21bed80094734a0f970ec78df0e520e6) \
   **Fuzhao Xue**, Jianghai Chen, Aixin Sun, Xiaozhe Ren, Zangwei Zheng, Xiaoxin He, Yongming Chen, Xin Jiang, Yang You
@@ -50,7 +50,7 @@ Selected Projects ([all](https://xuefuzhao.github.io/publications/))
   
 * Response Length Perception and Sequence Scheduling: An LLM-Empowered LLM Inference Pipeline [[Arxiv]](https://arxiv.org/abs/2305.13144) [[Code]](https://github.com/zhengzangw/Sequence-Scheduling) [[Blog]](https://zhengzangw.github.io/blogs/seqsch/) \
   Zangwei Zheng, Xiaozhe Ren, **Fuzhao Xue**, Yang Luo, Xin Jiang, Yang You
-  *Accepted at International Conference on Machine Learning (**NeurIPS**) 2023 (Acceptence rate: 26.1%)*
+  *Accepted at Neural Information Processing Systems (**NeurIPS**) 2023 (Acceptence rate: 26.1%)*
   
 News
 ------
