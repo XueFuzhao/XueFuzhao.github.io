@@ -12,7 +12,7 @@ My name is Fuzhao Xue, which is pronounced as Full-Draw Xue in English. Alternat
 
 Throughout my academic journey, I have had the privilege to collaborate with exceptionally talented scientists in various companies. Previously, I worked as a student researcher at  [Google Brain](https://research.google/teams/brain/), under the guidance of [Yi Tay](https://vanzytay.github.io/) and [Mostafa Dehghani](https://mostafadehghani.com/).Currently, I am a research intern at [NVIDIA AI](https://www.nvidia.com/en-sg/ai-data-science/), working alongside [Jim Fan](https://jimfan.me/) and [Yuke Zhu](https://www.cs.utexas.edu/~yukez/). Please check my [CV](/cv.pdf) for further information. 
 
-**I am actively seeking internship opportunities for the Winter of 2023, as well as the Spring and Summer of 2024. If you have any openings available, kindly reach out to me via email.** 
+**I am actively seeking internship opportunities for the Spring and Summer of 2024. If you have any openings available, kindly reach out to me via email.** 
 
 
 Research
