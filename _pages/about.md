@@ -77,6 +77,8 @@ News
 
 Awards
 ------
+\[2023] Google Ph.D. Fellowship
+
 \[2023] AAAI 2023 Distinguished Paper Award
 
 \[2021] NUS President's Graduate Fellowship
