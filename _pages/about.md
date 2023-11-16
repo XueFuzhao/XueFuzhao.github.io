@@ -12,6 +12,8 @@ My name is Fuzhao Xue, which is pronounced as Full-Draw Xue in English. Alternat
 
 Throughout my academic journey, I have had the privilege to collaborate with exceptionally talented scientists in various companies. Previously, I worked as a student researcher at  [Google Brain](https://research.google/teams/brain/), under the guidance of [Yi Tay](https://vanzytay.github.io/) and [Mostafa Dehghani](https://mostafadehghani.com/).Currently, I am a research intern at [NVIDIA AI](https://www.nvidia.com/en-sg/ai-data-science/), working alongside [Jim Fan](https://jimfan.me/) and [Yuke Zhu](https://www.cs.utexas.edu/~yukez/). Please check my [CV](/cv.pdf) for further information. 
 
+Also, my research is generously supported by the [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/recipients/) in Machine Learning (2023).
+
 **I am actively seeking internship opportunities for the Spring and Summer of 2024. If you have any openings available, kindly reach out to me via email.** 
 
 
@@ -54,6 +56,8 @@ Selected Projects ([all](https://xuefuzhao.github.io/publications/))
   
 News
 ------
+\[2023.11]. Awarded Google PhD Fellowship! So many thanks to my wonderful mentors and Google!
+
 \[2023.9]. Got two paper (one first-authored paper, i.e. Token-Crisis) accepted to **NeurIPS 2023**. Cong to Zangwei and myself. So many thanks to my collaborators!
 
 \[2023.5]. Got one first-authored paper (equal contribution with [Shenggui Li](https://scholar.google.com/citations?user=XuwmCz4AAAAJ&hl=en)) accepted to **ACL 2023**. Cong to Shenggui and myself! Thanks to all my collaborators!
