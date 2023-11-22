@@ -14,6 +14,8 @@ Throughout my academic journey, I have had the privilege to collaborate with exc
 
 My research is generously supported by the [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/recipients/).
 
+I'm actively looking for a few **undergrad/master students** to work together. Feel free to drop me an email with your CV if you are interested in foundation model research!
+
 
 Research
 ------
