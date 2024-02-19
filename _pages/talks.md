@@ -26,5 +26,5 @@ author_profile: true
   
 * [AdaTape](https://blog.research.google/2023/08/adatape-foundation-model-with-adaptive.html) and [OpenMoE](https://github.com/XueFuzhao/OpenMoE): Efficient Adaptive Computation and Conditional Computation
   * Y Combinator
-  * Sep 2023, <i> Host: [Naixu Guo](https://naixu-guo.github.io/) and [Qi Lu](https://en.wikipedia.org/wiki/Qi_Lu_(computer_scientist)) </i>
+  * Sep 2023, <i> Host: [Naixu Guo](https://naixu-guo.github.io/) and [Dr. Qi Lu](https://en.wikipedia.org/wiki/Qi_Lu_(computer_scientist)) </i>
 
