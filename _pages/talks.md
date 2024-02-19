@@ -14,7 +14,7 @@ author_profile: true
   
 * [OpenMoE: An Early Effort on Open Mixture-of-Experts Language Models](https://github.com/XueFuzhao/OpenMoE)
   * Alibaba DAMO
-  * Feb 2024, <i> Host: [Chenhui Shen](https://shen-chenhui.github.io/) </i>
+  * Jan 2024, <i> Host: [Chenhui Shen](https://shen-chenhui.github.io/) </i>
   
 * [OpenMoE: An Early Effort on Open Mixture-of-Experts Language Models](https://github.com/XueFuzhao/OpenMoE)
   * Amazon AGI
@@ -22,7 +22,9 @@ author_profile: true
 
 * [Token-Crisis](https://arxiv.org/abs/2305.13230) and [OpenMoE](https://github.com/XueFuzhao/OpenMoE), scaling LLM with less data and computation
   * Machine Learning Singapore
-  * Dec 2023, <i> Host: [Sam W. and Martin A.]([https://jind11.github.io/](https://www.meetup.com/machine-learning-singapore/events/296502196/)https://www.meetup.com/machine-learning-singapore/events/296502196/) </i>
-
-
+  * Oct 2023, <i> Host: [Sam W. and Martin A.](https://www.meetup.com/machine-learning-singapore/events/296502196/) </i>
+  
+* [AdaTape](https://blog.research.google/2023/08/adatape-foundation-model-with-adaptive.html) and [OpenMoE](https://github.com/XueFuzhao/OpenMoE): Efficient Adaptive Computation and Conditional Computation
+  * Y Combinator
+  * Sep 2023, <i> Host: [Naixu Guo](https://naixu-guo.github.io/) and [Qi Lu](https://en.wikipedia.org/wiki/Qi_Lu_(computer_scientist)) </i>
 
