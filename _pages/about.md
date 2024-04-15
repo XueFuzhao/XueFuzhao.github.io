@@ -24,7 +24,7 @@ My current research mainly focus on Machine Learning, Natural Language Processin
 Selected Projects ([all](https://xuefuzhao.github.io/publications/))
 ------
 **Adaptive Computation** and **Conditional Computation**
-* OpenMoE: Open Mixture-of-Experts Language Models [[Blog]](https://www.notion.so/Aug-2023-OpenMoE-v0-2-Release-43808efc0f5845caa788f2db52021879) [[Code]](https://github.com/XueFuzhao/OpenMoE) [[Paper]](https://arxiv.org/abs/2402.01739) \
+* OpenMoE: An Early Effort on Open Mixture-of-Experts Language Models [[Blog]](https://www.notion.so/Aug-2023-OpenMoE-v0-2-Release-43808efc0f5845caa788f2db52021879) [[Code]](https://github.com/XueFuzhao/OpenMoE) [[Paper]](https://arxiv.org/abs/2402.01739) \
   **Fuzhao Xue**, Zian Zheng, Yao Fu, Jinjie Ni, Zangwei Zheng, Wangchunshu Zhou and Yang You
   
 * Adaptive Computation with Elastic Input Sequence [[Arxiv]](https://arxiv.org/abs/2301.13195) [[Code]](https://github.com/google-research/scenic/tree/main/scenic/projects/adatape) \
