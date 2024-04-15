@@ -14,7 +14,7 @@ author_profile: true
   
 * [OpenMoE: An Early Effort on Open Mixture-of-Experts Language Models](https://github.com/XueFuzhao/OpenMoE)
   * Alibaba DAMO
-  * Jan 2024, <i> Host: [Chenhui Shen](https://shen-chenhui.github.io/) </i>
+  * Jan 2024, <i> Host: [Dr. Chenhui Shen](https://shen-chenhui.github.io/) </i>
   
 * [OpenMoE: An Early Effort on Open Mixture-of-Experts Language Models](https://github.com/XueFuzhao/OpenMoE)
   * Amazon AGI
