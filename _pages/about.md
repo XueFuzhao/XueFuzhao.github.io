@@ -102,5 +102,4 @@ Teaching
 
 Personal information
 ------
-Personal Hobbies: basketball, fitness and cooking. I also enjoy watching movies and listening to music, although, unfortunately, I'm a terrible singer. Fortunately, I think I have a gift for cooking. Maybe you can say Fuzhao (Frio) is zero-shot cooking learner. :)
-Another interesting thing is: I have the chance to be Newton's eighteenth generation of students. The acadamic family tree is [here](/AcademicFamilyTree.pdf). Looking forward to the day!
+Personal Hobbies: basketball, fitness and cooking. I also enjoy watching movies and listening to music, although, unfortunately, I'm a terrible singer. Fortunately, I think I have a gift for cooking. Maybe you can say Fuzhao (Frio) is a zero-shot cooking learner. :)
