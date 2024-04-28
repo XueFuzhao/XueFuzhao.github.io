@@ -14,7 +14,7 @@ Throughout my academic journey, I have had the privilege to collaborate with exc
 
 My research is generously supported by the [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/recipients/).
 
-I'm actively seeking **full-time research scientist** opportunities. Please feel free to email me if you have any openings available.
+I'm on the job market and seeking **full-time opportunities**. Please feel free to email me if you have any openings available.
 
 Research
 ------
