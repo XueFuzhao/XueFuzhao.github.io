@@ -22,7 +22,7 @@ My current research mainly focus on Machine Learning, Natural Language Processin
 
 Selected Projects ([all](https://xuefuzhao.github.io/publications/))
 ------
-**Adaptive Computation** and **Conditional Computation**
+**Efficient Foundation Model Architecture**
 * OpenMoE: An Early Effort on Open Mixture-of-Experts Language Models [[Blog]](https://www.notion.so/Aug-2023-OpenMoE-v0-2-Release-43808efc0f5845caa788f2db52021879) [[Code]](https://github.com/XueFuzhao/OpenMoE) [[Paper]](https://arxiv.org/abs/2402.01739) \
   **Fuzhao Xue**, Zian Zheng, Yao Fu, Jinjie Ni, Zangwei Zheng, Wangchunshu Zhou and Yang You
   *Accepted at International Conference on Machine Learning (**ICML**) 2024 (Acceptence rate: 27.5%)*
@@ -46,7 +46,7 @@ Selected Projects ([all](https://xuefuzhao.github.io/publications/))
   *Accepted at International Conference on Machine Learning (**ICML**) 2023 (Acceptence rate: 27.9%)*
 
 
-**AI System for Efficient AI** and **AI for Efficient AI System**
+**Foundation Model Infrastructure**
 * Sequence Parallelism: Long Sequence Training from System Perspective [[Arxiv]](https://arxiv.org/abs/2105.13120) [[Code]](https://github.com/google-research/scenic/tree/main/scenic/projects/adatape) [[Video]](https://www.youtube.com/watch?v=HLLVKb7Cszs)  \
   Shenggui Li \*, **Fuzhao Xue** * , Yongbin Li, Yang You
   *Accepted at Association for Computational Linguistics (**ACL**) 2023*  (\* indicates equal contribution)
@@ -54,6 +54,10 @@ Selected Projects ([all](https://xuefuzhao.github.io/publications/))
 * Response Length Perception and Sequence Scheduling: An LLM-Empowered LLM Inference Pipeline [[Arxiv]](https://arxiv.org/abs/2305.13144) [[Code]](https://github.com/zhengzangw/Sequence-Scheduling) [[Blog]](https://zhengzangw.github.io/blogs/seqsch/) \
   Zangwei Zheng, Xiaozhe Ren, **Fuzhao Xue**, Yang Luo, Xin Jiang, Yang You
   *Accepted at Neural Information Processing Systems (**NeurIPS**) 2023 (Acceptence rate: 26.1%)*
+
+**Large Language Model Evaluation**
+* MixEval: Deriving Wisdom of the Crowd from LLM Benchmark Mixtures[[Arxiv]](https://arxiv.org/abs/2406.06565) [[Code]](https://github.com/Psycoy/MixEval/) [[Homepage]](https://mixeval.github.io/) \
+  Jinjie Ni, **Fuzhao Xue**, Xiang Yue, Yuntian Deng, Mahir Shah, Kabir Jain, Graham Neubig, Yang You
   
 News
 ------
