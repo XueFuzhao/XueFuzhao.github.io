@@ -11,6 +11,10 @@ author_profile: true
   **Fuzhao Xue**, Zian Zheng, Yao Fu, Jinjie Ni, Zangwei Zheng, Wangchunshu Zhou and Yang You
   *Accepted at International Conference on Machine Learning (**ICML**) 2024 (Acceptence rate: 27.5%)*
 
+* MixEval: Deriving Wisdom of the Crowd from LLM Benchmark Mixtures[[Arxiv]](https://arxiv.org/abs/2406.06565) [[Code]](https://github.com/Psycoy/MixEval/) [[Homepage]](https://mixeval.github.io/) \
+  Jinjie Ni \*, **Fuzhao Xue** \*, Xiang Yue \*, Yuntian Deng, Mahir Shah, Kabir Jain, Graham Neubig, Yang You   (\* indicates core contributors)
+
+
 ## 2023
   
 * To Repeat or Not To Repeat: Insights from Scaling LLM under Token-Crisis [[Arxiv]](https://arxiv.org/abs/2305.13230) \
