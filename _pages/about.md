@@ -92,7 +92,7 @@ Awards
 
 Professional services
 ------
-Conference 2024:  ICLR (Reviewer), ICML (Reviewer), COLM (Reviewer)
+Conference 2024:  ICLR (Reviewer), ICML (Reviewer), COLM (Reviewer), NeurIPs (Reviewer)
 
 Conference 2023:  EMNLP (Reviewer), NeurIPs (Reviewer), CVPR (Reviewer), ACL (PC Member), WWW (Artifacts Reviewer)
 
