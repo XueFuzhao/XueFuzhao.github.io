@@ -53,19 +53,17 @@ Selected Projects ([all](https://xuefuzhao.github.io/publications/))
 **Large Language Model Evaluation**
 * MixEval: Deriving Wisdom of the Crowd from LLM Benchmark Mixtures[[Arxiv]](https://arxiv.org/abs/2406.06565) [[Code]](https://github.com/Psycoy/MixEval/) [[Homepage]](https://mixeval.github.io/) \
   Jinjie Ni, **Fuzhao Xue**, Xiang Yue, Yuntian Deng, Mahir Shah, Kabir Jain, Graham Neubig, Yang You
+  *Accepted at Neural Information Processing Systems (**NeurIPS**) 2024 (Acceptence rate: 25.8%)*
   
 News
 ------
+\[2024.9]. Got one paper (MixEval) accepted to **NeurIPS 2024**. Cong to Jinjie!
+
 \[2024.4]. Got one first-authored paper (OpenMoE) accepted to **ICML 2024**. Thanks to all!
 
 \[2023.11]. Awarded by **Google PhD Fellowship**! So many thanks to my wonderful mentors and Google!
 
 \[2023.9]. Got two paper (one first-authored paper, i.e. Token-Crisis) accepted to **NeurIPS 2023**. Cong to Zangwei and myself. So many thanks to my collaborators!
-
-\[2023.5]. Got one first-authored paper (equal contribution with [Shenggui Li](https://scholar.google.com/citations?user=XuwmCz4AAAAJ&hl=en)) accepted to **ACL 2023**. Cong to Shenggui and myself! Thanks to all my collaborators!
-
-\[2023.4]. Got two first-authored paper accepted to **ICML 2023**. Thanks to all my collaborators!
-
 
 Awards
 ------
