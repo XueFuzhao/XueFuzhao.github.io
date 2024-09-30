@@ -13,7 +13,7 @@ author_profile: true
 
 * MixEval: Deriving Wisdom of the Crowd from LLM Benchmark Mixtures[[Arxiv]](https://arxiv.org/abs/2406.06565) [[Code]](https://github.com/Psycoy/MixEval/) [[Homepage]](https://mixeval.github.io/) \
   Jinjie Ni \*, **Fuzhao Xue** \*, Xiang Yue \*, Yuntian Deng, Mahir Shah, Kabir Jain, Graham Neubig, Yang You   (\* indicates core contributors)
-
+  *Accepted at Neural Information Processing Systems (**NeurIPS**) 2024 (Acceptence rate: 25.8%)*
 
 ## 2023
   
