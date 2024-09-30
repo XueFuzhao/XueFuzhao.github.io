@@ -8,11 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Fuzhao Xue (pronounced as Full-Draw). My friends call me Frio or Frankie as well. I'm a PhD candidate of [HPC-AI](https://ai.comp.nus.edu.sg/) under the supervision of [Prof. Yang You](https://www.comp.nus.edu.sg/~youy/) at National University of Singapore (NUS). I hold an MEng degree from Nanyang Technological University (NTU), where I achieved outstanding academic performance with a perfect GPA of 5.0/5.0 in 2021. During my master's studies, I was fortunate to be supervised by [Prof Eng Siong Chng](https://www3.ntu.edu.sg/home/aseschng/default.html/) & [Prof Aixin Sun](https://personal.ntu.edu.sg/axsun/). 
-
-Throughout my academic journey, I have had the privilege to collaborate with exceptionally talented scientists in various companies. Previously, I worked as a student researcher at  [Google Brain](https://research.google/teams/brain/), under the guidance of [Yi Tay](https://vanzytay.github.io/) and [Mostafa Dehghani](https://mostafadehghani.com/). Currently, I am a research intern at [NVIDIA GEAR](https://research.nvidia.com/labs/gear/), working alongside [Jim Fan](https://jimfan.me/) and [Yuke Zhu](https://www.cs.utexas.edu/~yukez/). Please check my [CV](/cv.pdf) for further information. 
-
-My research is generously supported by the [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/recipients/).
+My name is Fuzhao Xue (pronounced "Full-Draw"). My friends call me Frio or Frankie as well. I earned my Ph.D. from the National University of Singapore (NUS) under [Prof. Yang You](https://www.comp.nus.edu.sg/~youy/) and hold an MEng from Nanyang Technological University (NTU), where I graduated with a perfect 5.0 GPA in 2021 under [Prof. Eng Siong Chng](https://www3.ntu.edu.sg/home/aseschng/default.html/) and [Prof. Aixin Sun](https://personal.ntu.edu.sg/axsun/). During my PhD, I interned at [Google Brain](https://research.google/teams/brain/) with [Yi Tay](https://vanzytay.github.io/) and [Mostafa Dehghani](https://mostafadehghani.com/), as well as at [NVIDIA GEAR](https://research.nvidia.com/labs/gear/) with [Jim Fan](https://jimfan.me/) and [Yuke Zhu](https://www.cs.utexas.edu/~yukez/). My research is supported by the [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/recipients/). For more details, please see my [CV](/cv.pdf).
 
 
 Research
