@@ -25,11 +25,6 @@ Selected Projects ([all](https://xuefuzhao.github.io/publications/))
 * Adaptive Computation with Elastic Input Sequence [[Arxiv]](https://arxiv.org/abs/2301.13195) [[Code]](https://github.com/google-research/scenic/tree/main/scenic/projects/adatape) \
   **Fuzhao Xue**, Valerii Likhosherstov, Anurag Arnab, Neil Houlsby, Mostafa Dehghani, Yang You
   *Accepted at International Conference on Machine Learning (**ICML**) 2023 (Acceptence rate: 27.9%)*
-  
-* Go Wider Instead of Deeper [[Arxiv]](https://arxiv.org/abs/2107.11817) [[Code]](https://github.com/XueFuzhao/WideNet_Code)  \
-  **Fuzhao Xue**, Ziji Shi, Yuxuan Lou, Yong Liu, Yang You
-  *Published at Association for the Advancement of Artificial Intelligence (**AAAI**) 2022 (Acceptence rate: 15.0%)*
-
 
 **Transformer Scaling**
 * To Repeat or Not To Repeat: Insights from Scaling LLM under Token-Crisis [[Arxiv]](https://arxiv.org/abs/2305.13230) \
@@ -40,15 +35,13 @@ Selected Projects ([all](https://xuefuzhao.github.io/publications/))
   **Fuzhao Xue**, Jianghai Chen, Aixin Sun, Xiaozhe Ren, Zangwei Zheng, Xiaoxin He, Yongming Chen, Xin Jiang, Yang You
   *Accepted at International Conference on Machine Learning (**ICML**) 2023 (Acceptence rate: 27.9%)*
 
-
 **Foundation Model Infrastructure**
+* LongVILA: Scaling Long-Context Visual Language Models for Long Videos [[Code]](https://github.com/NVlabs/VILA/blob/main/LongVILA.md) [[Arxiv]](https://www.arxiv.org/abs/2408.10188) \
+  **Fuzhao Xue** \*, Yukang Chen \*, Dacheng Li \*, Qinghao Hu \*, Ligeng Zhu, Xiuyu Li, Yunhao Fang, Haotian Tang, Shang Yang, Zhijian Liu, Ethan He, Hongxu Yin, Pavlo Molchanov, Jan Kautz, Linxi Fan, Yuke Zhu, Yao Lu, Song Han (\* indicates equal contribution) 
+
 * Sequence Parallelism: Long Sequence Training from System Perspective [[Arxiv]](https://arxiv.org/abs/2105.13120) [[Code]](https://github.com/google-research/scenic/tree/main/scenic/projects/adatape) [[Video]](https://www.youtube.com/watch?v=HLLVKb7Cszs)  \
   Shenggui Li \*, **Fuzhao Xue** * , Yongbin Li, Yang You
   *Accepted at Association for Computational Linguistics (**ACL**) 2023*  (\* indicates equal contribution)
-  
-* Response Length Perception and Sequence Scheduling: An LLM-Empowered LLM Inference Pipeline [[Arxiv]](https://arxiv.org/abs/2305.13144) [[Code]](https://github.com/zhengzangw/Sequence-Scheduling) [[Blog]](https://zhengzangw.github.io/blogs/seqsch/) \
-  Zangwei Zheng, Xiaozhe Ren, **Fuzhao Xue**, Yang Luo, Xin Jiang, Yang You
-  *Accepted at Neural Information Processing Systems (**NeurIPS**) 2023 (Acceptence rate: 26.1%)*
 
 **Large Language Model Evaluation**
 * MixEval: Deriving Wisdom of the Crowd from LLM Benchmark Mixtures[[Arxiv]](https://arxiv.org/abs/2406.06565) [[Code]](https://github.com/Psycoy/MixEval/) [[Homepage]](https://mixeval.github.io/) \
