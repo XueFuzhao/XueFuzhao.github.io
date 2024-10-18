@@ -11,9 +11,16 @@ author_profile: true
   **Fuzhao Xue**, Zian Zheng, Yao Fu, Jinjie Ni, Zangwei Zheng, Wangchunshu Zhou and Yang You
   *Accepted at International Conference on Machine Learning (**ICML**) 2024 (Acceptence rate: 27.5%)*
 
+* LongVILA: Scaling Long-Context Visual Language Models for Long Videos [[Code]](https://github.com/NVlabs/VILA/blob/main/LongVILA.md) [[Arxiv]](https://www.arxiv.org/abs/2408.10188) \
+  **Fuzhao Xue** \*, Yukang Chen \*, Dacheng Li \*, Qinghao Hu \*, Ligeng Zhu, Xiuyu Li, Yunhao Fang, Haotian Tang, Shang Yang, Zhijian Liu, Ethan He, Hongxu Yin, Pavlo Molchanov, Jan Kautz, Linxi Fan, Yuke Zhu, Yao Lu, Song Han (\* indicates equal contribution) 
+
 * MixEval: Deriving Wisdom of the Crowd from LLM Benchmark Mixtures[[Arxiv]](https://arxiv.org/abs/2406.06565) [[Code]](https://github.com/Psycoy/MixEval/) [[Homepage]](https://mixeval.github.io/) \
   Jinjie Ni \*, **Fuzhao Xue** \*, Xiang Yue \*, Yuntian Deng, Mahir Shah, Kabir Jain, Graham Neubig, Yang You   (\* indicates core contributors)
   *Accepted at Neural Information Processing Systems (**NeurIPS**) 2024 (Acceptence rate: 25.8%)*
+
+* MixEval-X: Any-to-Any Evaluations from Real-World Data Mixtures [[Arxiv]](https://arxiv.org/abs/2410.13754) [[Homepage]](https://mixeval-x.github.io/) \
+  Jinjie Ni, Yifan Song, Deepanway Ghosal, Bo Li, David Junhao Zhang, Xiang Yue, **Fuzhao Xue**, Zian Zheng, Kaichen Zhang, Mahir Shah, Kabir Jain, Yang You, Michael Shieh
+
 
 ## 2023
   
