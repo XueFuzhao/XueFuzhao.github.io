@@ -76,7 +76,7 @@ Conference 2023:  EMNLP (Reviewer), NeurIPs (Reviewer), ACL (PC Member), WWW (Ar
 
 Conference 2022: EMNLP (Reviewer), SIGIR (PC Member), ICML (Reviewer)
 
-Journal: TKDE (Reviewer)
+Journal: TKDE (Reviewer), ACM Computing Surveys (Reviewer)
 
 Teaching
 ------
