@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-My name is Fuzhao Xue (pronounced "Full-Draw"). My friends call me Frio as well. I earned my Ph.D. from the National University of Singapore (NUS) under [Prof. Yang You](https://www.comp.nus.edu.sg/~youy/) and hold an MEng from Nanyang Technological University (NTU), where I graduated with a perfect 5.0 GPA in 2021 under [Prof. Eng Siong Chng](https://www3.ntu.edu.sg/home/aseschng/default.html/) and [Prof. Aixin Sun](https://personal.ntu.edu.sg/axsun/). During my PhD, I interned at [Google Brain](https://research.google/teams/brain/) with [Yi Tay](https://vanzytay.github.io/) and [Mostafa Dehghani](https://mostafadehghani.com/), as well as at [NVIDIA GEAR](https://research.nvidia.com/labs/gear/) with [Jim Fan](https://jimfan.me/) and [Yuke Zhu](https://www.cs.utexas.edu/~yukez/). My research was supported by the [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/recipients/). For more details, please see my [CV](/cv.pdf).
+My name is Fuzhao Xue (pronounced "Full-Draw"). My friends call me Frio as well. I'm a Senior Research Scientist at Google DeepMind, working on the pretraining and multimodal research for Gemini.
+
+I earned my Ph.D. from the National University of Singapore (NUS) under [Prof. Yang You](https://www.comp.nus.edu.sg/~youy/) and hold an MEng from Nanyang Technological University (NTU), where I graduated with a perfect 5.0 GPA in 2021 under [Prof. Eng Siong Chng](https://www3.ntu.edu.sg/home/aseschng/default.html/) and [Prof. Aixin Sun](https://personal.ntu.edu.sg/axsun/). During my PhD, I interned at [Google Brain](https://research.google/teams/brain/) with [Yi Tay](https://vanzytay.github.io/) and [Mostafa Dehghani](https://mostafadehghani.com/), as well as at [NVIDIA GEAR](https://research.nvidia.com/labs/gear/) with [Jim Fan](https://jimfan.me/) and [Yuke Zhu](https://www.cs.utexas.edu/~yukez/). My research was supported by the [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/recipients/). For more details, please see my [CV](/cv.pdf).
 
 
 Research
@@ -50,6 +52,8 @@ Selected Projects ([all](https://xuefuzhao.github.io/publications/))
   
 News
 ------
+\[2024.12]. Joining Google DeepMind as a senior research scientist.
+
 \[2024.9]. Got one paper (MixEval) accepted to **NeurIPS 2024**. Cong to Jinjie!
 
 \[2024.4]. Got one first-authored paper (OpenMoE) accepted to **ICML 2024**. Thanks to all!
