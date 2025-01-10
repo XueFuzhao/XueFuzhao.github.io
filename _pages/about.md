@@ -72,7 +72,7 @@ Awards
 
 Professional services
 ------
-Conference 2025: ICLR (Reviewer), AAAI (Reviewer)
+Conference 2025: ICLR (Reviewer), AAAI (Reviewer), CVPR (Reviewer), ICML (Reviewer)
 
 Conference 2024:  ICLR (Reviewer), ICML (Reviewer), COLM (Reviewer), NeurIPs (Reviewer)
 
@@ -80,7 +80,7 @@ Conference 2023:  EMNLP (Reviewer), NeurIPs (Reviewer), ACL (PC Member), WWW (Ar
 
 Conference 2022: EMNLP (Reviewer), SIGIR (PC Member), ICML (Reviewer)
 
-Journal: TKDE (Reviewer), ACM Computing Surveys (Reviewer)
+Journal: TKDE (Reviewer), ACM Computing Surveys (Reviewer), TMLR (Reviewer)
 
 Teaching
 ------
