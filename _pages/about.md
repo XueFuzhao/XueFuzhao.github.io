@@ -22,24 +22,25 @@ Selected Projects ([all](https://xuefuzhao.github.io/publications/))
 **Efficient Foundation Model Architecture**
 * OpenMoE: An Early Effort on Open Mixture-of-Experts Language Models [[Blog]](https://www.notion.so/Aug-2023-OpenMoE-v0-2-Release-43808efc0f5845caa788f2db52021879) [[Code]](https://github.com/XueFuzhao/OpenMoE) [[Paper]](https://arxiv.org/abs/2402.01739) \
   **Fuzhao Xue**, Zian Zheng, Yao Fu, Jinjie Ni, Zangwei Zheng, Wangchunshu Zhou and Yang You
-  *Accepted at International Conference on Machine Learning (**ICML**) 2024 (Acceptence rate: 27.5%)*
+  *Accepted at International Conference on Machine Learning (**ICML**) 2024*
   
 * Adaptive Computation with Elastic Input Sequence [[Arxiv]](https://arxiv.org/abs/2301.13195) [[Code]](https://github.com/google-research/scenic/tree/main/scenic/projects/adatape) \
   **Fuzhao Xue**, Valerii Likhosherstov, Anurag Arnab, Neil Houlsby, Mostafa Dehghani, Yang You
-  *Accepted at International Conference on Machine Learning (**ICML**) 2023 (Acceptence rate: 27.9%)*
+  *Accepted at International Conference on Machine Learning (**ICML**) 2023*
 
 **Transformer Scaling**
 * To Repeat or Not To Repeat: Insights from Scaling LLM under Token-Crisis [[Arxiv]](https://arxiv.org/abs/2305.13230) \
   **Fuzhao Xue**, Yao Fu, Wangchunshu Zhou, Zangwei Zheng, Yang You
-  *Accepted at Neural Information Processing Systems (**NeurIPS**) 2023 (Acceptence rate: 26.1%)*
+  *Accepted at Neural Information Processing Systems (**NeurIPS**) 2023*
   
 * A Study on Transformer Configuration and Training Objective [[Arxiv]](https://arxiv.org/abs/2205.10505) [[Blog]](https://xuefuzhao.notion.site/What-is-the-relationship-between-training-objective-and-transformer-scaling-21bed80094734a0f970ec78df0e520e6) \
   **Fuzhao Xue**, Jianghai Chen, Aixin Sun, Xiaozhe Ren, Zangwei Zheng, Xiaoxin He, Yongming Chen, Xin Jiang, Yang You
-  *Accepted at International Conference on Machine Learning (**ICML**) 2023 (Acceptence rate: 27.9%)*
+  *Accepted at International Conference on Machine Learning (**ICML**) 2023*
 
 **Foundation Model Infrastructure**
 * LongVILA: Scaling Long-Context Visual Language Models for Long Videos [[Code]](https://github.com/NVlabs/VILA/blob/main/LongVILA.md) [[Arxiv]](https://www.arxiv.org/abs/2408.10188) \
- Yukang Chen \*, **Fuzhao Xue** \*, Dacheng Li \*, Qinghao Hu \*, Ligeng Zhu, Xiuyu Li, Yunhao Fang, Haotian Tang, Shang Yang, Zhijian Liu, Ethan He, Hongxu Yin, Pavlo Molchanov, Jan Kautz, Linxi Fan, Yuke Zhu, Yao Lu, Song Han (\* indicates equal contribution) 
+ Yukang Chen \*, **Fuzhao Xue** \*, Dacheng Li \*, Qinghao Hu \*, Ligeng Zhu, Xiuyu Li, Yunhao Fang, Haotian Tang, Shang Yang, Zhijian Liu, Ethan He, Hongxu Yin, Pavlo Molchanov, Jan Kautz, Linxi Fan, Yuke Zhu, Yao Lu, Song Han
+ *Accepted at International Conference on Learning Representations (**ICLR Spotlights**) 2025*  (\* indicates equal contribution)
 
 * Sequence Parallelism: Long Sequence Training from System Perspective [[Arxiv]](https://arxiv.org/abs/2105.13120) [[Code]](https://github.com/google-research/scenic/tree/main/scenic/projects/adatape) [[Video]](https://www.youtube.com/watch?v=HLLVKb7Cszs)  \
   Shenggui Li \*, **Fuzhao Xue** * , Yongbin Li, Yang You
@@ -48,10 +49,12 @@ Selected Projects ([all](https://xuefuzhao.github.io/publications/))
 **Large Language Model Evaluation**
 * MixEval: Deriving Wisdom of the Crowd from LLM Benchmark Mixtures[[Arxiv]](https://arxiv.org/abs/2406.06565) [[Code]](https://github.com/Psycoy/MixEval/) [[Homepage]](https://mixeval.github.io/) \
   Jinjie Ni, **Fuzhao Xue**, Xiang Yue, Yuntian Deng, Mahir Shah, Kabir Jain, Graham Neubig, Yang You
-  *Accepted at Neural Information Processing Systems (**NeurIPS**) 2024 (Acceptence rate: 25.8%)*
+  *Accepted at Neural Information Processing Systems (**NeurIPS**) 2024*
   
 News
 ------
+\[2025.1]. Got two paper (LongVILA and MixEval-X) accepted to **ICLR 2025**. Both of them are **Spotlights** paper. Cong to Jinjie and folks from NVIDIA!
+
 \[2024.12]. Joining Google DeepMind as a senior research scientist.
 
 \[2024.9]. Got one paper (MixEval) accepted to **NeurIPS 2024**. Cong to Jinjie!
