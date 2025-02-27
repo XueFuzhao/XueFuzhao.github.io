@@ -40,7 +40,7 @@ Selected Projects ([all](https://xuefuzhao.github.io/publications/))
 **Foundation Model Infrastructure**
 * LongVILA: Scaling Long-Context Visual Language Models for Long Videos [[Code]](https://github.com/NVlabs/VILA/blob/main/LongVILA.md) [[Arxiv]](https://www.arxiv.org/abs/2408.10188) \
  Yukang Chen \*, **Fuzhao Xue** \*, Dacheng Li \*, Qinghao Hu \*, Ligeng Zhu, Xiuyu Li, Yunhao Fang, Haotian Tang, Shang Yang, Zhijian Liu, Ethan He, Hongxu Yin, Pavlo Molchanov, Jan Kautz, Linxi Fan, Yuke Zhu, Yao Lu, Song Han
- *Accepted at International Conference on Learning Representations (**ICLR Spotlights**) 2025*  (\* indicates equal contribution)
+ *Accepted at International Conference on Learning Representations (**ICLR**) 2025*  (\* indicates equal contribution)
 
 * Sequence Parallelism: Long Sequence Training from System Perspective [[Arxiv]](https://arxiv.org/abs/2105.13120) [[Code]](https://github.com/google-research/scenic/tree/main/scenic/projects/adatape) [[Video]](https://www.youtube.com/watch?v=HLLVKb7Cszs)  \
   Shenggui Li \*, **Fuzhao Xue** * , Yongbin Li, Yang You
@@ -53,7 +53,7 @@ Selected Projects ([all](https://xuefuzhao.github.io/publications/))
   
 News
 ------
-\[2025.1]. Got two paper (LongVILA and MixEval-X) accepted to **ICLR 2025**. Both of them are **Spotlights** paper. Cong to Jinjie and folks from NVIDIA!
+\[2025.1]. Got two paper (LongVILA and MixEval-X) accepted to **ICLR 2025**. MixEval-X is a **Spotlights** paper. Cong to Jinjie and folks from NVIDIA!
 
 \[2024.12]. Joining Google DeepMind as a senior research scientist.
 
