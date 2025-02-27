@@ -9,11 +9,15 @@ author_profile: true
 
 * LongVILA: Scaling Long-Context Visual Language Models for Long Videos [[Code]](https://github.com/NVlabs/VILA/blob/main/LongVILA.md) [[Arxiv]](https://www.arxiv.org/abs/2408.10188) \
   Yukang Chen \*, **Fuzhao Xue** \*, Dacheng Li \*, Qinghao Hu \*, Ligeng Zhu, Xiuyu Li, Yunhao Fang, Haotian Tang, Shang Yang, Zhijian Liu, Ethan He, Hongxu Yin, Pavlo Molchanov, Jan Kautz, Linxi Fan, Yuke Zhu, Yao Lu, Song Han
-   *Accepted at International Conference on Learning Representations (**ICLR Spotlights**) 2025*  (\* indicates equal contribution)
+   *Accepted at International Conference on Learning Representations (**ICLR**) 2025*  (\* indicates equal contribution)
 
 * MixEval-X: Any-to-Any Evaluations from Real-World Data Mixtures [[Arxiv]](https://arxiv.org/abs/2410.13754) [[Homepage]](https://mixeval-x.github.io/) \
   Jinjie Ni, Yifan Song, Deepanway Ghosal, Bo Li, David Junhao Zhang, Xiang Yue, **Fuzhao Xue**, Zian Zheng, Kaichen Zhang, Mahir Shah, Kabir Jain, Yang You, Michael Shieh
    *Accepted at International Conference on Learning Representations (**ICLR Spotlights**) 2025*
+
+* QLIP: Text-Aligned Visual Tokenization Unifies Auto-Regressive Multimodal Understanding and Generation [[Homepage]](https://nvlabs.github.io/QLIP/) [[ArXiv]](https://arxiv.org/abs/2502.05178) [[Code]](https://github.com/NVlabs/QLIP/tree/main) \
+  Yue Zhao, **Fuzhao Xue**, Scott Reed, Linxi Fan, Yuke Zhu, Jan Kautz, Zhiding Yu, Philipp Krähenbühl, De-An Huang
+  *arXiv preprint **arXiv:2201.10890***
 
 ## 2024
 
