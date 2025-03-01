@@ -10,7 +10,7 @@ redirect_from:
 
 My name is Fuzhao Xue (pronounced "Full-Draw"). My friends call me Frio as well. I'm a Senior Research Scientist at Google DeepMind, working on the pretraining and multimodal research for Gemini.
 
-I earned my Ph.D. from the National University of Singapore (NUS) under [Prof. Yang You](https://www.comp.nus.edu.sg/~youy/) and hold an MEng from Nanyang Technological University (NTU), where I graduated with a perfect 5.0 GPA in 2021 under [Prof. Eng Siong Chng](https://www3.ntu.edu.sg/home/aseschng/default.html/) and [Prof. Aixin Sun](https://personal.ntu.edu.sg/axsun/). During my PhD, I interned at [Google Brain](https://research.google/teams/brain/) with [Yi Tay](https://vanzytay.github.io/) and [Mostafa Dehghani](https://mostafadehghani.com/), as well as at [NVIDIA GEAR](https://research.nvidia.com/labs/gear/) with [Jim Fan](https://jimfan.me/) and [Yuke Zhu](https://www.cs.utexas.edu/~yukez/). My research was supported by the [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/recipients/). For more details, please see my [CV](/cv.pdf).
+I earned my Ph.D. from the National University of Singapore (NUS) and hold an MEng from Nanyang Technological University (NTU). During my PhD, I interned at [Google Brain](https://research.google/teams/brain/) with [Yi Tay](https://vanzytay.github.io/) and [Mostafa Dehghani](https://mostafadehghani.com/), as well as at [NVIDIA GEAR](https://research.nvidia.com/labs/gear/) with [Jim Fan](https://jimfan.me/) and [Yuke Zhu](https://www.cs.utexas.edu/~yukez/). My research was supported by the [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/recipients/). For more details, please see my [CV](/cv.pdf).
 
 
 Research
