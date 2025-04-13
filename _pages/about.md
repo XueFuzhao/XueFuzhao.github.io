@@ -75,7 +75,7 @@ Awards
 
 Professional services
 ------
-Conference 2025: ICLR (Reviewer), AAAI (Reviewer), CVPR (Reviewer), ICML (Reviewer)
+Conference 2025: ICLR (Reviewer), AAAI (Reviewer), CVPR (Reviewer), ICCV (Reviewer), COLM (Reviewer)
 
 Conference 2024:  ICLR (Reviewer), ICML (Reviewer), COLM (Reviewer), NeurIPs (Reviewer)
 
