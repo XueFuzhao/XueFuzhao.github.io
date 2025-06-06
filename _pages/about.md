@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-My name is Fuzhao Xue (pronounced "Full-Draw"). My friends call me Frio as well. I'm a Senior Research Scientist at Google DeepMind, working on the pretraining and multimodal research for Gemini.
+My name is Fuzhao Xue (pronounced "Full-Draw"). My friends call me Frio as well. I'm a Senior Research Scientist at Google DeepMind, working on the pretraining (e.g. model architecture, scaling science) and multimodal research for Gemini.
 
 I earned my Ph.D. from the National University of Singapore (NUS) and hold an MEng from Nanyang Technological University (NTU). During my PhD, I interned at [Google Brain](https://research.google/teams/brain/) with [Yi Tay](https://vanzytay.github.io/) and [Mostafa Dehghani](https://mostafadehghani.com/), as well as at [NVIDIA GEAR](https://research.nvidia.com/labs/gear/) with [Jim Fan](https://jimfan.me/) and [Yuke Zhu](https://www.cs.utexas.edu/~yukez/). My research was supported by the [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/recipients/). For more details, please see my [CV](/cv.pdf).
 
 
 Research
 ------
-My current research mainly focus on Machine Learning, Natural Language Processing, and High Performance Computing. One recent interest is designing algorithm and system to train efficient large language model and other foundation models (e.g. vision, embodied agent). I am always happy to chat about interesting research ideas, and looking for academic collaborations. Please drop me an email if you are interested in collaborating with me.  
+My current research mainly focus on Machine Learning, Natural Language Processing, and High Performance Computing. One recent interest is designing algorithm and system to train efficient foundation models (e.g. LLM, World Model). I am always happy to chat about interesting research ideas.  
 
 Selected Projects ([all](https://xuefuzhao.github.io/publications/))
 ------
@@ -93,4 +93,4 @@ Teaching
 
 Personal information
 ------
-Personal Hobbies: basketball, fitness and cooking. I also enjoy watching movies and listening to music, although, unfortunately, I'm a terrible singer. Fortunately, I think I have a gift for cooking. Maybe you can say Fuzhao (Frio) is a zero-shot cooking learner. :)
+Personal Hobbies: basketball, tennis, fitness and cooking. Maybe you can say Fuzhao (Frio) is a zero-shot cooking learner. :)
