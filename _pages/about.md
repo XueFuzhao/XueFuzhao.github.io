@@ -10,16 +10,12 @@ redirect_from:
 
 My name is Fuzhao Xue (pronounced "Full-Draw"). My friends call me Frio as well. I'm a Senior Research Scientist at Google DeepMind, working on the pretraining (e.g. model architecture, scaling science) and multimodal research for Gemini.
 
-I earned my Ph.D. from the National University of Singapore (NUS) and hold an MEng from Nanyang Technological University (NTU). During my PhD, I interned at [Google Brain](https://research.google/teams/brain/) with [Yi Tay](https://vanzytay.github.io/) and [Mostafa Dehghani](https://mostafadehghani.com/), as well as at [NVIDIA GEAR](https://research.nvidia.com/labs/gear/) with [Jim Fan](https://jimfan.me/) and [Yuke Zhu](https://www.cs.utexas.edu/~yukez/). My research was supported by the [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/recipients/). For more details, please see my [CV](/cv.pdf).
+I earned my Ph.D. from the National University of Singapore (NUS) and hold an MEng from Nanyang Technological University (NTU). During my PhD, I interned at [Google Brain](https://research.google/teams/brain/) with [Yi Tay](https://vanzytay.github.io/) and [Mostafa Dehghani](https://mostafadehghani.com/), as well as at [NVIDIA GEAR](https://research.nvidia.com/labs/gear/) with [Jim Fan](https://jimfan.me/) and [Yuke Zhu](https://www.cs.utexas.edu/~yukez/). My research was supported by the [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/recipients/).
 
-
-Research
-------
-My current research mainly focus on Machine Learning, Natural Language Processing, and High Performance Computing. One recent interest is designing algorithm and system to train efficient foundation models (e.g. LLM, World Model). I am always happy to chat about interesting research ideas.  
 
 Selected Projects ([all](https://xuefuzhao.github.io/publications/))
 ------
-**Efficient Foundation Model Architecture**
+**Efficient Model Architecture**
 * OpenMoE: An Early Effort on Open Mixture-of-Experts Language Models [[Blog]](https://www.notion.so/Aug-2023-OpenMoE-v0-2-Release-43808efc0f5845caa788f2db52021879) [[Code]](https://github.com/XueFuzhao/OpenMoE) [[Paper]](https://arxiv.org/abs/2402.01739) \
   **Fuzhao Xue**, Zian Zheng, Yao Fu, Jinjie Ni, Zangwei Zheng, Wangchunshu Zhou and Yang You
   *Accepted at International Conference on Machine Learning (**ICML**) 2024*
@@ -37,7 +33,7 @@ Selected Projects ([all](https://xuefuzhao.github.io/publications/))
   **Fuzhao Xue**, Jianghai Chen, Aixin Sun, Xiaozhe Ren, Zangwei Zheng, Xiaoxin He, Yongming Chen, Xin Jiang, Yang You
   *Accepted at International Conference on Machine Learning (**ICML**) 2023*
 
-**Foundation Model Infrastructure**
+**MultiModal and Infrastructure**
 * LongVILA: Scaling Long-Context Visual Language Models for Long Videos [[Code]](https://github.com/NVlabs/VILA/blob/main/LongVILA.md) [[Arxiv]](https://www.arxiv.org/abs/2408.10188) \
  Yukang Chen \*, **Fuzhao Xue** \*, Dacheng Li \*, Qinghao Hu \*, Ligeng Zhu, Xiuyu Li, Yunhao Fang, Haotian Tang, Shang Yang, Zhijian Liu, Ethan He, Hongxu Yin, Pavlo Molchanov, Jan Kautz, Linxi Fan, Yuke Zhu, Yao Lu, Song Han
  *Accepted at International Conference on Learning Representations (**ICLR**) 2025*  (\* indicates equal contribution)
