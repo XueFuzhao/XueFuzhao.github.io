@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Fuzhao Xue (pronounced "Full-Draw"). My friends call me Frio as well. I'm a Senior Research Scientist at Google DeepMind, working on the pretraining (e.g. model architecture, scaling science) and multimodal research for Gemini.
+My name is Fuzhao Xue (pronounced "Full-Draw"). My friends call me Frio as well. I'm a Research Scientist at Google DeepMind, working on the pretraining (e.g. model architecture, scaling science) and multimodal research for Gemini.
 
 I earned my Ph.D. from the National University of Singapore (NUS) and hold an MEng from Nanyang Technological University (NTU). During my PhD, I interned at [Google Brain](https://research.google/teams/brain/) with [Yi Tay](https://vanzytay.github.io/) and [Mostafa Dehghani](https://mostafadehghani.com/), as well as at [NVIDIA GEAR](https://research.nvidia.com/labs/gear/) with [Jim Fan](https://jimfan.me/) and [Yuke Zhu](https://www.cs.utexas.edu/~yukez/). My research was supported by the [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/recipients/).
 
