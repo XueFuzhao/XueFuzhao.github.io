@@ -9,5 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[CV available in PDF format.](/cv.pdf)
 
